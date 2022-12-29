@@ -270,22 +270,30 @@
     "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
       "name": "Binance USD",
       "slot": "0x7050c9e0f4ca769c69bd3a8ef740bc37934f8e2c036e5a723fd8ee048ed3f8c3",
-      "implementations": []
+      "implementations": [
+        "0x5864c777697bf9881220328bf2f16908c9afcd7e"
+      ]
     },
     "0x3ee18b2214aff97000d974cf647e7c347e8fa585": {
       "name": "Wormhole Portal Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-      "implementations": []
+      "implementations": [
+        "0x299b4f6066d231521d11fae8331fb1a4fe794f58"
+      ]
     },
     "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B": {
       "name": "Wormhole Ethereum Core Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-      "implementations": []
+      "implementations": [
+        "0x3c3d457f1522d3540ab3325aa5f1864e34cba9d0"
+      ]
     },
     "0x6FFd7EdE62328b3Af38FCD61461Bbfc52F5651fE": {
       "name": "Wormhole NFT Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-      "implementations": []
+      "implementations": [
+        "0x3e41904b3766f4cceb145cc53d75feb61722a96c"
+      ]
     }
   }
 }
