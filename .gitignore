@@ -66,6 +66,3 @@ crytic-export
 
 # Avoid committing potentially differently licensed code..
 implementations
-
-# Avoid committing hand-compiled list of addresses to scan...
-contracts.json
