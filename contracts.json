@@ -1,0 +1,291 @@
+{
+  "ethereum": {
+    "0x000000000000ad05ccc4f10045630fb830b95127": {
+      "name": "Blur.io marketplace 2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb38827497daf7f28261910e33e22219de087c8f5"
+      ]
+    },
+    "0x2f848984984d6c3c036174ce627703edaf780479": {
+      "name": "MCT-XEN Batch Minter",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x76af383abce95ba9f32099196d56f5f470c4c671"
+      ]
+    },
+    "0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B": {
+      "name": "Compound Unitroller",
+      "slot": 2,
+      "implementations": [
+        "0xbafe01ff935c7305907c33bf824352ee5979b526"
+      ]
+    },
+    "0xc0da02939e1441f497fd74f78ce7decb17b66529": {
+      "name": "Compound Governance",
+      "slot": 2,
+      "implementations": [
+        "0xef3b6e9e13706a8f01fe98fdcf66335dc5cfdeed"
+      ]
+    },
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+      "name": "USD Coin",
+      "slot": "0x7050c9e0f4ca769c69bd3a8ef740bc37934f8e2c036e5a723fd8ee048ed3f8c3",
+      "implementations": [
+        "0xa2327a938febf5fec13bacfb16ae10ecbc4cbdcf"
+      ]
+    },
+    "0x1c479675ad559dc151f6ec7ed3fbf8cee79582b6": {
+      "name": "Arbitrum Sequencer Inbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd03bfe2ce83632f4e618a97299cc91b1335bb2d9"
+      ]
+    },
+    "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a": {
+      "name": "Arbitrum Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1066cecc8880948fe55e427e94f1ff221d626591"
+      ]
+    },
+    "0xc1ebd02f738644983b6c4b2d440b8e77dde276bd": {
+      "name": "Arbitrum Nova Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1066cecc8880948fe55e427e94f1ff221d626591"
+      ]
+    },
+    "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f": {
+      "name": "Arbitrum Delayed Inbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5aed5f8a1e3607476f1f81c3d8fe126deb0afe94"
+      ]
+    },
+    "0x5eF0D09d1E6204141B4d37530808eD19f60FBa35": {
+      "name": "Arbitrum Rollup Proxy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x72f193d0f305f532c87a4b9d0a2f407a3f4f585f"
+      ]
+    },
+    "0xff1f2b4adb9df6fc8eafecdcbf96a2b351680455": {
+      "name": "Aztec: Connect",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8430be7b8fd28cc58ea70a25c9c7a624f26f5d09"
+      ]
+    },
+    "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1": {
+      "name": "Optimism Gateway",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x40e0c049f4671846e9cff93aaed88f2b48e527bb"
+      ]
+    },
+    "0x74312363e45dcaba76c59ec49a7aa8a65a67eed3": {
+      "name": "X2Y2 Exchange",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x6d7812d41a08bc2a910b562d8b56411964a4ed88"
+      ]
+    },
+    "0xa0c68c638235ee32657e8f720a23cec1bfc77c77": {
+      "name": "Polygon Bridge",
+      "slot": "0xbaab7dbf64751104133af04abc7d9979f0fda3b059a322a8333f533d3f32bf7f",
+      "implementations": [
+        "0x37d26dc2890b35924b40574bac10552794771997"
+      ]
+    },
+    "0x8484ef722627bf18ca5ae6bcf031c23e6e922b30": {
+      "name": "Polygon Ether Bridge",
+      "slot": "0xbaab7dbf64751104133af04abc7d9979f0fda3b059a322a8333f533d3f32bf7f",
+      "implementations": [
+        "0x54006763154c764da4af42a8c3cfc25ea29765d5"
+      ]
+    },
+    "0x3dfd23a6c5e8bbcfc9581d2e864a68feb6a076d3": {
+      "name": "Aave Lending Pool V1",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x2847a5d7ce69790cb40471d454feb21a0be1f2e3"
+      ]
+    },
+    "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9": {
+      "name": "Aave Lending Pool V2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc6845a5c768bf8d7681249f8927877efda425baf"
+      ]
+    },
+    "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
+      "name": "Aave Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc13eac3b4f9eed480045113b7af00f7b5655ece8"
+      ]
+    },
+    "0xabea9132b05a70803a4e85094fd0e1800777fbef": {
+      "name": "zkSync",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8e972b354e6933275513c355ee14d44a832ad2d9"
+      ]
+    },
+    "0xcda72070e455bb31c7690a170224ce43623d0b6f": {
+      "name": "Foundation Market",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5363827a66224541224decf96378fdd0f110ac46"
+      ]
+    },
+    "0x78605df79524164911c144801f41e9811b7db73d": {
+      "name": "BitDAO Treasury",
+      "slot": 0,
+      "implementations": [
+        "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
+      ]
+    },
+    "0x70a0a7be87deb51e1fab16d4f2bf00be1510e476": {
+      "name": "Golem Foundation Wallet",
+      "slot": 0,
+      "implementations": [
+        "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
+      ]
+    },
+    "0xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c": {
+      "name": "Bitfinex Multisig 3",
+      "slot": 0,
+      "implementations": [
+        "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
+      ]
+    },
+    "0x64192819ac13ef72bf6b5ae239ac672b43a9af08": {
+      "name": "Ronin Bridge V2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x71356e37e0368bd10bfdbf41dc052fe5fa24cd05"
+      ]
+    },
+    "0xf326e4de8f66a0bdc0970b79e0924e33c79f1915": {
+      "name": "MetaMask DS Proxy",
+      "slot": 0,
+      "implementations": [
+        "0xd9db270c1b5e3bd161e8c8503c55ceabee709552"
+      ]
+    },
+    "0x301407427168fb51bcc927b9fb76dcd88fe45681": {
+      "name": "Ether Capital Staking Multisig",
+      "slot": 0,
+      "implementations": [
+        "0xd9db270c1b5e3bd161e8c8503c55ceabee709552"
+      ]
+    },
+    "0xd3621b7ea5062dbcf6daa333c24c651894c5d2ea": {
+      "name": "MaiCoin Deposit",
+      "slot": 0,
+      "implementations": [
+        "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
+      ]
+    },
+    "0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a": {
+      "name": "Orbit Chain Bridge",
+      "slot": 6,
+      "offset": 1,
+      "implementations": [
+        "0x9f2e4581d47c2851ea1150ab8126b45c5939d8f5"
+      ]
+    },
+    "0xf5c9f957705bea56a7e806943f98f7777b995826": {
+      "name": "Sorare L2 Bridge",
+      "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
+      "implementations": [
+        "0x4edd62189732e9ff476aba880b48c29432a7ac9b"
+      ]
+    },
+    "0x5fdcca53617f4d2b9134b29090c87d01058e27e9": {
+      "name": "Immutable X Bridge",
+      "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
+      "implementations": [
+        "0xb8563ad5af1f79dd04937be8b572318c8e6f43ac"
+      ]
+    },
+    "0x5cdaf83e077dbac2692b5864ca18b61d67453be8": {
+      "name": "ZKSwap ZKSpace Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x467a2b91f231d930f5eeb6b982c7666e81da8626"
+      ]
+    },
+    "0xb8e6d31e7b212b2b7250ee9c26c56cebbfbe6b23": {
+      "name": "KuCoin 15",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd62dedee92074458b1c31133e6601cb6b87e844b"
+      ]
+    },
+    "0x649765821d9f64198c905ec0b2b037a4a52bc373": {
+      "name": "Bancor Master Vault V3",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xf3b685d24f84b6eeeeee334250cf73ade1f10144"
+      ]
+    },
+    "0x3980c9ed79d2c191a89e02fa3529c60ed6e9c04b": {
+      "name": "Metis Andromeda Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa0cfe8af2ab5c9232714647702dbacf862ea4798"
+      ]
+    },
+    "0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419": {
+      "name": "StarkNet ETH Bridge",
+      "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
+      "implementations": [
+        "0x5e70f3301bbbbb1dfa2c8d20d75b162afa6dbe37"
+      ]
+    },
+    "0xdc1664458d2f0b6090bea60a8793a4e66c2f1c00": {
+      "name": "OMG Network Boba Gateway",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xaf41c681143cb91f218959375f4452a604504833"
+      ]
+    },
+    "0xa1d65e8fb6e87b60feccbc582f7f97804b725521": {
+      "name": "DXDao DXD Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x845856776d110a200cf41f35c9428c938e72e604"
+      ]
+    },
+    "0x5d22045daceab03b158031ecb7d9d06fad24609b": {
+      "name": "Rhino.fi Bridge",
+      "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
+      "implementations": [
+        "0x4edd62189732e9ff476aba880b48c29432a7ac9b"
+      ]
+    },
+    "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
+      "name": "Binance USD",
+      "slot": "0x7050c9e0f4ca769c69bd3a8ef740bc37934f8e2c036e5a723fd8ee048ed3f8c3",
+      "implementations": []
+    },
+    "0x3ee18b2214aff97000d974cf647e7c347e8fa585": {
+      "name": "Wormhole Portal Token Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": []
+    },
+    "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B": {
+      "name": "Wormhole Ethereum Core Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": []
+    },
+    "0x6FFd7EdE62328b3Af38FCD61461Bbfc52F5651fE": {
+      "name": "Wormhole NFT Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": []
+    }
+  }
+}
