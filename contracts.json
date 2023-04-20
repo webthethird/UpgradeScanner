@@ -499,6 +499,195 @@
       "implementations": [
         "0xbace64ce8b1611ec70f10d0ed2b203bfa4788b11"
       ]
+    },
+    "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
+      "name": "Angle Protocol agEUR",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe59d2c2cfe8459c53917d908177aa25fea5b919b"
+      ]
+    },
+    "0xc9daabC677F3d1301006e723bD21C60be57a5915": {
+      "name": "Angle Protocol Pool Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb0187178095e751e817ddc2e8ebe3fb1f7e46842"
+      ]
+    },
+    "0x4f91F01cE8ec07c9B1f6a82c18811848254917Ab": {
+      "name": "Angle Distributor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x18fdeaf9ecc8f6c985d73fed10a12f4bf580c52f"
+      ]
+    },
+    "0xfc8f9eefC5FCe1D9dAcE2B0a11A1e184381787C4": {
+      "name": "Angle Protocol Perpetual Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x9ca144c12a9dce3b72be31048cf54c79b42e02df"
+      ]
+    },
+    "0x5adDc89785D75C86aB939E9e15bfBBb7Fc086A87": {
+      "name": "Angle Protocol Stable Master",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x282dffb8d0215d7efb8d8c5ff90aed185d8850ab"
+      ]
+    },
+    "0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5": {
+      "name": "Angle Protocol veANGLE",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x74024f9b3d075a5d339dd3b80e2e218ec71de0b9"
+      ]
+    },
+    "0x4579709627CA36BCe92f51ac975746f431890930": {
+      "name": "Angle Router",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1b2ffdad478d8770ea0e085bdd4e31120736fcd7"
+      ]
+    },
+    "0x41A65AAE5d1C8437288d5a29B4D049897572758E": {
+      "name": "Angle stETH Strategy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3899d92041401eb127886689924d637fc28a5b6f"
+      ]
+    },
+    "0x5bc6BEf80DA563EBf6Df6D6913513fa9A7ec89BE": {
+      "name": "Angle Core Borrow",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x4d144b7355bc2c33fa091339279e9d77261461fe"
+      ]
+    },
+    "0x241D7598BD1eb819c0E9dEd456AcB24acA623679": {
+      "name": "Angle Vault Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7e54d1c83fad152b3681b81b7c0be691c6373f77"
+      ]
+    },
+    "0x310A2694521f75C7B2b64b5937C16CE65C3EFE01": {
+      "name": "Exactly Auditor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xaeb62e6f27bc103702e7bc879ae98bcea56f027e"
+      ]
+    },
+    "0x163538E22F4d38c1eb21B79939f3d2ee274198Ff": {
+      "name": "Exactly eDAI",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3c6bd2ffb9cb007e469cdd7b08d79102b5ae2b54"
+      ]
+    },
+    "0x29bAbFF3eBA7B517a75109EA8fd6D1eAb4A10258": {
+      "name": "Exactly Market ETH Router",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x884988e0bfb0d6a18f664329acd0402b2fb6056c"
+      ]
+    },
+    "0x8644c0FDED361D1920e068bA4B09996e26729435": {
+      "name": "Exactly eWBTC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xf972f71332af1b7967ad21921b8ef4de84c94e72"
+      ]
+    },
+    "0x660e2fC185a9fFE722aF253329CEaAD4C9F6F928": {
+      "name": "Exactly eUSDC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa6b60fb117809b05263c126691c707fb19713825"
+      ]
+    },
+    "0x84db6eE82b7Cf3b47E8F19270abdE5718B936670": {
+      "name": "Ankr ETH Staking Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x52f24a5e03aee338da5fd9df68d2b6fae1178827"
+      ]
+    },
+    "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb": {
+      "name": "Ankr Staked ETH Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3ed1dfbccf893b7d2d730ead3e5edbf1f8f95a48"
+      ]
+    },
+    "0xD01ef7C0A5d8c432fc2d1a85c66cF2327362E5C6": {
+      "name": "Ankr Reward Earning ETH",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5de57c3535e1f840ecb3e2a10c9955387685756d"
+      ]
+    },
+    "0xCfD4B4Bc15C8bF0Fd820B0D4558c725727B3ce89": {
+      "name": "Ankr Polygon Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xcb6805e51ea42741d17d1c1f59e01fbe80aba389"
+      ]
+    },
+    "0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C": {
+      "name": "Ankr Staked MATIC Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x50be7ae35c5bf838d060045f33f93449f9aff49c"
+      ]
+    },
+    "0x8888882f8f843896699869179fB6E4f7e3B58888": {
+      "name": "Morpho Compound",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe3d7a242614174ccf9f96bd479c42795d666fc81"
+      ]
+    },
+    "0x777777c9898D384F785Ee44Acfe945efDFf5f3E0": {
+      "name": "Morpho Aave",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xfbc7693f114273739c74a3ff028c13769c49f2d0"
+      ]
+    },
+    "0x78681e63b6f3ad81ecD64AECC404d765b529C80d": {
+      "name": "Morpho Rewards Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x581c3816589ad0de7f9c76bc242c97fe96c9f100"
+      ]
+    },
+    "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29": {
+      "name": "Forta Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x587969add789c13f64bcc34ff253bd9bfb78f38a"
+      ]
+    },
+    "0x4CA459DFC8b1cACa3763C954E889e6D644984385": {
+      "name": "PoLido NFT",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0000000000000000000000000000000000000000"
+      ]
+    },
+    "0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599": {
+      "name": "Lido Staked MATIC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0000000000000000000000000000000000000000"
+      ]
+    },
+    "0x1b6c71EdbdB8174420Cf9B368B38A1B52bfDd7F3": {
+      "name": "Lido Node Operator Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0000000000000000000000000000000000000000"
+      ]
     }
   },
   "bsc": {
@@ -690,6 +879,62 @@
       "implementations": [
         "0x2a29ecb29781214ec774544023c8fc19102786b8"
       ]
+    },
+    "0xa0c92efdceA55ca19396e4850B8D29Df6F907bcD": {
+      "name": "Ankr BNB Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc56c7481f610e890e51590c32ce4678a7c2d7f80"
+      ]
+    },
+    "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827": {
+      "name": "Ankr Staking BNB Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa2d1aa68a184d6243d8da9ae885742c635c5cc8b"
+      ]
+    },
+    "0xfe39985D7eFF914c50A06bA0cFfcCA8361e00C0e": {
+      "name": "Ankr Reward Earning BNB",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe380b02b16e050c2801cca83461916feca652ecf"
+      ]
+    },
+    "0x2D7D5f298067E81e8827eB686428881f4c988dC1": {
+      "name": "Router Protocol Vote Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb943c6f68e2c83c6b5413731b11e2c5ac51813e3"
+      ]
+    },
+    "0xf18aCC02628009231d7BAAF9a7a24C0860Dda6cb": {
+      "name": "Router Protocol BSC Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xfc89330c1cc2a7e4e8e31c3d5ec61bb520650730"
+      ]
+    },
+    "0x00b8F3E184e5DaAadB8fdA995bbabBCC1b35Ae93": {
+      "name": "Router Protocol ERC20 Handler",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7eb70dc00d401de4457fef0dcfc9e3e9ddb15b0d"
+      ]
+    },
+    "0xB43BDf98A4971617C9Be437Ec928B1076b94707E": {
+      "name": "Router Protocol Fee Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0000000000000000000000000000000000000000"
+      ]
+    },
+    "0x6e14f48576265272B6CAA3A7cC500a26050Be64E": {
+      "name": "Router Protocol Handler Reserve",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb10c888b39bdd7a098f64b2a34b2b21b2a2a3f18"
+      ]
     }
   },
   "arbitrum": {
@@ -761,6 +1006,20 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x9403820ece038e6ff0b0b0a28599f7231ed81c1d"
+      ]
+    },
+    "0x0F390559F258eB8591C8e31Cf0905E97cf36ACE2": {
+      "name": "Hundred Finance Unitroller",
+      "slot": 2,
+      "implementations": [
+        "0xe8a3327f353863292dcc972b160fe55dbf123fca"
+      ]
+    },
+    "0xfCD8570AD81e6c77b8D252bEbEBA62ed980BD64D": {
+      "name": "Hundred Finance USDC",
+      "slot": 18,
+      "implementations": [
+        "0xbb93c7f378b9b531216f9ad7b5748be189a55807"
       ]
     }
   },
@@ -849,6 +1108,41 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0xa6a7b56f27c9c943945e8a636c01e433240700d8"
+      ]
+    },
+    "0xaEb62e6F27BC103702E7BC879AE98bceA56f027E": {
+      "name": "Exactly Auditor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3f55a319d2fd003f87a96c1c3484121936243c46"
+      ]
+    },
+    "0x29bAbFF3eBA7B517a75109EA8fd6D1eAb4A10258": {
+      "name": "Exactly Market ETH Router",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x884988e0bfb0d6a18f664329acd0402b2fb6056c"
+      ]
+    },
+    "0xc4d4500326981eacD020e20A81b1c479c161c7EF": {
+      "name": "Exactly eWETH",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1dcf89dfa88363ef33d49dd591b1ee5e84dd0f75"
+      ]
+    },
+    "0x81C9A7B55A4df39A9B7B5F781ec0e53539694873": {
+      "name": "Exactly eUSDC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xf6da0e129fdc6e8fda49d8b2b33a6d4ba43c677b"
+      ]
+    },
+    "0xBd1ba78A3976cAB420A9203E6ef14D18C2B2E031": {
+      "name": "Exactly Rewards Controller",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3a31a7e94b30bd92151b4711522f118902977c3c"
       ]
     }
   },
@@ -1054,6 +1348,111 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x9d506fdac0efddd146217ce5d3a88e7af95e3e55"
+      ]
+    },
+    "0xad0dCC6635a5c38be6B87007210797Ad94AdB4B7": {
+      "name": "Ankr MATIC Cross Chain Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8a2f83347f0e59faefe2320b7422f8aa432ce27a"
+      ]
+    },
+    "0x62A509BA95c75Cabc7190469025E5aBeE4eDdb2a": {
+      "name": "Ankr MATIC Swap Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbd00f00ed3c6805cd709998f3064fbc95460dbff"
+      ]
+    },
+    "0x2D7D5f298067E81e8827eB686428881f4c988dC1": {
+      "name": "Router Protocol Vote Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xf83918ea2908a9dd4543b9fa8d29a7edf24b1a4a"
+      ]
+    },
+    "0xf18aCC02628009231d7BAAF9a7a24C0860Dda6cb": {
+      "name": "Router Protocol BSC Bridge",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x6394dcee344eaeffe6e44edaaa8700666d347500"
+      ]
+    },
+    "0x00b8F3E184e5DaAadB8fdA995bbabBCC1b35Ae93": {
+      "name": "Router Protocol ERC20 Handler",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8107536f18f1ce5a2cd206e19273084fb3a977a9"
+      ]
+    },
+    "0xA63f3147C6bAE70A53a30e30421b1a992e60Aac2": {
+      "name": "Router Protocol Fee Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x505fab608db513302a66ea489569e562c80ad112"
+      ]
+    },
+    "0x6e14f48576265272B6CAA3A7cC500a26050Be64E": {
+      "name": "Router Protocol Handler Reserve",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x55cf9fd9371b98b17225fd6f0479d10debc877ab"
+      ]
+    },
+    "0x2B91D8a547D5F5E070d18208427E0C2F56335CF0": {
+      "name": "Router Protocol Polygon Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x158b063e0e88254404487f1653e300e469586036"
+      ]
+    },
+    "0x107Ac13567b1b5D84691f890A5bA07EdaE1a11c3": {
+      "name": "Forta Access Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc855d842ff0af97b0d18cc81eecbb702ea1a0706"
+      ]
+    },
+    "0xbb12476ab9f27d3b441964B0aFC03D14a82e1D64": {
+      "name": "Forta Router",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x77701d5e7bd0015ddc665caf774008ac04d4f28b"
+      ]
+    },
+    "0x61447385B019187daa48e91c55c02AF1F1f3F863": {
+      "name": "Forta Agent Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb779ff917f824740dd64c0568c346a4c918ef095"
+      ]
+    },
+    "0x75c46283dE6b08bE4bb4425b94aC338f2802e3B0": {
+      "name": "Forta Scanner Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0000000000000000000000000000000000000000"
+      ]
+    },
+    "0xd46832F3f8EA8bDEFe5316696c0364F01b31a573": {
+      "name": "Forta Dispatch",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5eed79ec2d48be67e6d956c59110f123116c3ead"
+      ]
+    },
+    "0x9ff62d1FC52A907B6DCbA8077c2DDCA6E6a9d3e1": {
+      "name": "Forta Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd6b3139108e271c812acc6ffebad28e935d61e24"
+      ]
+    },
+    "0xd2863157539b1D11F39ce23fC4834B62082F6874": {
+      "name": "Forta Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x543d94657fa8c710818f0d9f7edec7f4ca03ccda"
       ]
     }
   }
