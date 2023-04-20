@@ -366,6 +366,139 @@
       "implementations": [
         "0x01ec93c289cb003e741f621cdd4fe837243f8905"
       ]
+    },
+    "0xD291E7a03283640FDc51b121aC401383A46cC623": {
+      "name": "Rari Governance Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb528e8bb2dcb99cfdea4c28bf44925ef58ab1520"
+      ]
+    },
+    "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84": {
+      "name": "dHedge DAO Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x50a6b25101173b41e41c1a30a5bae42f213b2687"
+      ]
+    },
+    "0x24A6A37576377F63f194Caa5F518a60f45b42921": {
+      "name": "Float Bank Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x520f53ad040da6d453ac24301cc92c6a834efbf5"
+      ]
+    },
+    "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": {
+      "name": "Lido stETH",
+      "getter": "implementation()",
+      "implementations": [
+        "0x47ebab13b806773ec2a2d16873e2df770d130b50"
+      ]
+    },
+    "0x1344A36A1B56144C3Bc62E7757377D288fDE0369": {
+      "name": "Notional Finance nProxy",
+      "getter": "getImplementation()",
+      "implementations": [
+        "0x0158fc072ff5dde8f7b9e2d00e8782093db888db"
+      ]
+    },
+    "0xCFEAead4947f0705A14ec42aC3D44129E1Ef3eD5": {
+      "name": "Notional Finance NOTE",
+      "getter": "getImplementation()",
+      "implementations": [
+        "0x95df7e34403becd532f2be160cacda56f0bd6ba3"
+      ]
+    },
+    "0xCcE8E784c777fb9435F89f4E45f8b7FC49f7669f": {
+      "name": "Origin Story Staking Series",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe79850aacd3ad0b50b747837410ae5d7c38d5caa"
+      ]
+    },
+    "0xc626F08Cf88972332CFcb48B227409658be67a1c": {
+      "name": "Origin Story Staking Fee Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x729e04be8106c6bdef311ccf0b9636932f192867"
+      ]
+    },
+    "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86": {
+      "name": "Origin Dollar OUSD",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x33db8d52d65f75e4cdda1b02463760c9561a2aa1"
+      ]
+    },
+    "0xe75d77b1865ae93c7eaa3040b038d7aa7bc02f70": {
+      "name": "Origin Dollar Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x997c35a0bf8e21404ae4379841e0603c957138c3"
+      ]
+    },
+    "0x5e3646A1Db86993f73E6b74A57D8640B69F7e259": {
+      "name": "Origin Dollar Aave Strategy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x4f424c6f066ae74784f3595a3a84923ad36d5471"
+      ]
+    },
+    "0x9c459eeb3FA179a40329b81C1635525e9A0Ef094": {
+      "name": "Origin Dollar Compound Strategy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc697eab7b9f5c5ce2d35b9b69917f96001712ad5"
+      ]
+    },
+    "0xEA2Ef2e2E5A749D4A66b41Db9aD85a38Aa264cb3": {
+      "name": "Origin Dollar Convex Strategy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xee83f8ebb435373f6c231173995cc990697af1b8"
+      ]
+    },
+    "0x5A4eEe58744D1430876d5cA93cAB5CcB763C037D": {
+      "name": "Origin Dollar Morpho Strategy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5cc70898c47f73265bde5b8bb9d37346d0726c09"
+      ]
+    },
+    "0x9c354503C38481a7A7a51629142963F98eCC12D0": {
+      "name": "Origin Dollar Governance",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7dfafe7d547fc9083719d633b9c5f6f542c42c77"
+      ]
+    },
+    "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9": {
+      "name": "Origin Governance Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe61110663334794aba03c349c621a075dc590a42"
+      ]
+    },
+    "0x21Fb5812D70B3396880D30e90D9e5C1202266c89": {
+      "name": "Origin Protocol Harvester",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5e72eb0ab74b5b4d2766a7956d210746ceab96e1"
+      ]
+    },
+    "0x402c84De2Ce49aF88f5e2eF3710ff89bFED36cB6": {
+      "name": "Beanstalk Fertilizer Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x39cdaf9dc6057fd7ae81aaed64d7a062aaf452fd"
+      ]
+    },
+    "0x77700005BEA4DE0A78b956517f099260C2CA9a26": {
+      "name": "Beanstalk Root Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbace64ce8b1611ec70f10d0ed2b203bfa4788b11"
+      ]
     }
   },
   "bsc": {
@@ -550,6 +683,13 @@
       "implementations": [
         "0x67965a59631e8eacda48d26fae769e516fa0bcfc"
       ]
+    },
+    "0xd57E1425837567F74A35d07669B23Bfb67aA4A93": {
+      "name": "dForce BNB",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x2a29ecb29781214ec774544023c8fc19102786b8"
+      ]
     }
   },
   "arbitrum": {
@@ -586,6 +726,41 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0xa6a7b56f27c9c943945e8a636c01e433240700d8"
+      ]
+    },
+    "0x727354712BDFcd8596a3852Fd2065b3C34F4F770": {
+      "name": "Radiant rWBTC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc0249d743a17ed44b4f9ee611b51d26ab2e26444"
+      ]
+    },
+    "0xF4B1486DD74D07706052A33d31d7c0AAFD0659E1": {
+      "name": "Radiant Lending Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd1b589c00c940c4c3f7b25e53c8d921c44ef9140"
+      ]
+    },
+    "0xfC05ec21b106E0c1e035Ec4718C1394f098FBb57": {
+      "name": "Radiant Pool Helper",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0cc8be53df3a5d2f49379f6d8f1356b765c908ca"
+      ]
+    },
+    "0x3EEaFa33625DF20837eD0Cb83Ae4D1E34788b141": {
+      "name": "Radiant vdWBTC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x2de0697aee08843d4975c55eed60e209adf92502"
+      ]
+    },
+    "0x76663727c39Dd46Fed5414d6801c4E8890df85cF": {
+      "name": "Radiant Price Provider",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x9403820ece038e6ff0b0b0a28599f7231ed81c1d"
       ]
     }
   },
@@ -767,6 +942,118 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x9def34b1ace8c135029aec19f9744762a572b2c3"
+      ]
+    },
+    "0xD2171aBb60D2994CF9aCB767F2116Cf47BBF596F": {
+      "name": "InsurAce Stakers Pool V2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8d3eb7a51a326f975bf13db1b52180874a0d16ca"
+      ]
+    },
+    "0x2A5c2568b10A0E826BfA892Cf21BA7218310180b": {
+      "name": "Biconomy Liquidity Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x256415a1f9468e5405abdafd9b76c4f24451d7e7"
+      ]
+    },
+    "0xfd225C9e6601C9d38d8F98d8731BF59eFcF8C0E3": {
+      "name": "maticX Child Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd6f5781b49f774aebdea7ab52671b0d72d36b6dd"
+      ]
+    },
+    "0x3ad736904e9e65189c3000c7dd2c8ac8bb7cd4e3": {
+      "name": "Superfluid MATICx",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5ee041478e482ff756a783b8115b06bcecc0fc93"
+      ]
+    },
+    "0xf972DACEd7C6b03223710C11413036D17eB298f6": {
+      "name": "Impermax IBEX Token",
+      "slot": "0xbaab7dbf64751104133af04abc7d9979f0fda3b059a322a8333f533d3f32bf7f",
+      "implementations": [
+        "0x66ef3e890233c63ce6bd4362ef3a089abb804ed6"
+      ]
+    },
+    "0x225084D30cc297F3b177d9f93f5C3Ab8fb6a1454": {
+      "name": "TETU Profit Share Token",
+      "getter": "implementation()",
+      "implementations": [
+        "0x9ed23756ecd0b9012e4d7ee807da0e6ec94a1a70"
+      ]
+    },
+    "0x6678814c273d5088114B6E40cC49C8DB04F9bC29": {
+      "name": "TETU Controller",
+      "getter": "implementation()",
+      "implementations": [
+        "0x00f17fc1eb1a58afdda707a5dde4344c124f7f8f"
+      ]
+    },
+    "0x286c02C93f3CF48BB759A93756779A1C78bCF833": {
+      "name": "TETU Announcer",
+      "getter": "implementation()",
+      "implementations": [
+        "0x12e4a470ed725a0450d543c41006da678809b2b8"
+      ]
+    },
+    "0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F": {
+      "name": "TETU Bookkeeper",
+      "getter": "implementation()",
+      "implementations": [
+        "0x111a98fe1d4dfd381711c88c4744aa6e9b1a8fa9"
+      ]
+    },
+    "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2": {
+      "name": "TETU FundKeeper",
+      "getter": "implementation()",
+      "implementations": [
+        "0xaf56d0b9ba597dc9c3c5b9ac609f9023dc79fe52"
+      ]
+    },
+    "0x6FB29DD17fa6E27BD112Bc3A2D0b8dae597AeDA4": {
+      "name": "veTETU",
+      "getter": "implementation()",
+      "implementations": [
+        "0xb45590e48a592bffa077a6937b630f6b251bfe00"
+      ]
+    },
+    "0x7fC9E0Aa043787BFad28e29632AdA302C790Ce33": {
+      "name": "TETU ETH Vault",
+      "getter": "implementation()",
+      "implementations": [
+        "0x9ed23756ecd0b9012e4d7ee807da0e6ec94a1a70"
+      ]
+    },
+    "0xd336E7c075AC50B12649459813c1B16f8e1087ac": {
+      "name": "Orium Factory",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x046d98b5e37598c7ddb4fe2539a11426e706b59e"
+      ]
+    },
+    "0xb4Cd476E1aFb22089A35a1102Eae208F15eCDc79": {
+      "name": "Orium Aavegotchi Petting",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0aa71834e12ce046bdbb98fa90362b6c077699ad"
+      ]
+    },
+    "0xBadB193B235781F3A02c72d322F3769217Bf4173": {
+      "name": "Orium Aavegotchi Scheduler",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8f77bb3891d7aba5f9ac948f6af0b1da314541d2"
+      ]
+    },
+    "0x3bB2f8cF1B545a78E7A1A7e5405797cC20Cf9073": {
+      "name": "Orium Scholarship Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x9d506fdac0efddd146217ce5d3a88e7af95e3e55"
       ]
     }
   }
