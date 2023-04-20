@@ -390,13 +390,6 @@
         "0x35cfacc93244fc94d26793cd6e68f59976380b3e"
       ]
     },
-    "0x3E14602186DD9dE538F729547B3918D24c823546": {
-      "name": "Thunder Wrapped BNB",
-      "slot": 1,
-      "implementations": [
-        "0x0000000000000000000000000000000000000001"
-      ]
-    },
     "0xAC1f9Fadc33cC0799Cf7e3051E5f6b28C98966EE": {
       "name": "SecondLive NFT",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
@@ -579,13 +572,6 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x07b5bf20487bf1703dba0222b739fa4fc921fdd1"
-      ]
-    },
-    "0x453cfbe096c0f8d763e8c5f24b441097d577bde2": {
-      "name": "Wormhole NFT Bridge",
-      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-      "implementations": [
-        "0x0000000000000000000000000000000000000000"
       ]
     },
     "0x794a61358D6845594F94dc1DB02A252b5b4814aD": {
