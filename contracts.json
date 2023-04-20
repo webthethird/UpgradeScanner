@@ -4,14 +4,16 @@
       "name": "Blur.io marketplace 2",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xb38827497daf7f28261910e33e22219de087c8f5"
+        "0xb38827497daf7f28261910e33e22219de087c8f5",
+        "0x983e96c26782a8db500a6fb8ab47a52e1b44862d"
       ]
     },
     "0x2f848984984d6c3c036174ce627703edaf780479": {
       "name": "MCT-XEN Batch Minter",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x76af383abce95ba9f32099196d56f5f470c4c671"
+        "0x76af383abce95ba9f32099196d56f5f470c4c671",
+        "0xce2ae22de7d45558c5feaededd828dfd22c6d7a2"
       ]
     },
     "0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B": {
@@ -123,7 +125,8 @@
       "name": "Aave Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xc13eac3b4f9eed480045113b7af00f7b5655ece8"
+        "0xc13eac3b4f9eed480045113b7af00f7b5655ece8",
+        "0x96f68837877fd0414b55050c9e794aecdbcfca59"
       ]
     },
     "0xabea9132b05a70803a4e85094fd0e1800777fbef": {
@@ -137,7 +140,8 @@
       "name": "Foundation Market",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x5363827a66224541224decf96378fdd0f110ac46"
+        "0x5363827a66224541224decf96378fdd0f110ac46",
+        "0xc6bda983ce0a00142e2334bc2726c30573fe5e3e"
       ]
     },
     "0x78605df79524164911c144801f41e9811b7db73d": {
@@ -165,7 +169,8 @@
       "name": "Ronin Bridge V2",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x71356e37e0368bd10bfdbf41dc052fe5fa24cd05"
+        "0x71356e37e0368bd10bfdbf41dc052fe5fa24cd05",
+        "0xa67ba5315af4961eb937158032af9300c657dacd"
       ]
     },
     "0xf326e4de8f66a0bdc0970b79e0924e33c79f1915": {
@@ -201,7 +206,8 @@
       "name": "Sorare L2 Bridge",
       "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
       "implementations": [
-        "0x4edd62189732e9ff476aba880b48c29432a7ac9b"
+        "0x4edd62189732e9ff476aba880b48c29432a7ac9b",
+        "0xdf2f24751f7e84ccdcd39e7b49904fab0fb0f583"
       ]
     },
     "0x5fdcca53617f4d2b9134b29090c87d01058e27e9": {
@@ -243,7 +249,8 @@
       "name": "StarkNet ETH Bridge",
       "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
       "implementations": [
-        "0x5e70f3301bbbbb1dfa2c8d20d75b162afa6dbe37"
+        "0x5e70f3301bbbbb1dfa2c8d20d75b162afa6dbe37",
+        "0x455603ad9ae671f6c1f0f746f24d7904ca603581"
       ]
     },
     "0xdc1664458d2f0b6090bea60a8793a4e66c2f1c00": {
@@ -257,7 +264,8 @@
       "name": "DXDao DXD Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x845856776d110a200cf41f35c9428c938e72e604"
+        "0x845856776d110a200cf41f35c9428c938e72e604",
+        "0x5f02025204ef6341198cc7276368c5d694e18716"
       ]
     },
     "0x5d22045daceab03b158031ecb7d9d06fad24609b": {
@@ -293,6 +301,14 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x3e41904b3766f4cceb145cc53d75feb61722a96c"
+      ]
+    },
+    "0x03f34be1bf910116595db1b11e9d1b2ca5d59659": {
+      "name": "Tokenlon",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe25ff902295bc085bd548955b0595b518d4c46d2",
+        "0x2ef1928a890cabde01d31a2081ad7bd856e6ef4b"
       ]
     }
   }
