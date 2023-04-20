@@ -23,10 +23,17 @@ if __name__ == '__main__':
         api_key = os.getenv(f"{str(network).upper()}_API_KEY")
         for address in contracts[network].keys():
             sleep(1)
-            slot = contracts[network][address]["slot"]
             name = contracts[network][address]["name"]
-            # Read implementation address from storage using known slot
-            bash_command = f'cast storage --rpc-url={rpc_url} {address} {slot}'
+            if "slot" in contracts[network][address]:
+                slot = contracts[network][address]["slot"]
+                # Read implementation address from storage using known slot
+                bash_command = f'cast storage --rpc-url={rpc_url} {address} {slot}'
+            elif "getter" in contracts[network][address]:
+                getter = contracts[network][address]["getter"]
+                # Get implementation address by calling known getter function
+                bash_command = f'cast call --rpc-url={rpc_url} {address} {getter}'
+            else:
+                continue
             process = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE, text=True)
             output, error = process.communicate()
             if error:
@@ -49,6 +56,7 @@ if __name__ == '__main__':
                 bash_command = f'cast etherscan-source -d {impl_path} -c {chain} --etherscan-api-key {api_key} {impl}'
                 process = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE, text=True)
                 output, error = process.communicate()
+
     if any_updates:
         f = open("./contracts.json", "w")
         f.write(json.dumps(contracts, indent=2, sort_keys=False))
