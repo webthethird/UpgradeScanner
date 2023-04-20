@@ -1,0 +1,7 @@
+[etherscan]
+mainnet = { key = "${ETHERSCAN_API_KEY}" }
+arbitrum = { key = "${ARBISCAN_API_KEY}", url = "api.arbiscan.io" }
+avalanche = { key = "${SNOWTRACE_API_KEY}", url = "api.snowtrace.io" }
+bsc = { key = "${BSCSCAN_API_KEY}", url = "api.bscscan.com" }
+optimism = { key = "${OPTIMISM_API_KEY}", url = "api-optimistic.etherscan.io" }
+polygon = { key = "${POLYGON_API_KEY}", url = "api.polygonscan.com" }
