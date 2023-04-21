@@ -32,6 +32,8 @@ if __name__ == '__main__':
                 getter = contracts[network][address]["getter"]
                 # Get implementation address by calling known getter function
                 bash_command = f'cast call --rpc-url={rpc_url} {address} {getter}'
+                if "getter_arg" in contracts[network][address]:
+                    bash_command += f' {contracts[network][address]["getter_arg"]}'
             else:
                 continue
             process = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE, text=True)
