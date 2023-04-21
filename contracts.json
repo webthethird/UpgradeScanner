@@ -679,7 +679,8 @@
       "name": "Lido Staked MATIC",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x0000000000000000000000000000000000000000"
+        "0x0000000000000000000000000000000000000000",
+        "0x5604332de9e9dd8f485bcbb3442809498ab7983e"
       ]
     },
     "0x1b6c71EdbdB8174420Cf9B368B38A1B52bfDd7F3": {
@@ -687,6 +688,476 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x0000000000000000000000000000000000000000"
+      ]
+    },
+    "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
+      "name": "Hyperlane Mailbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xcc48e741996b0d77b38d9dc2bf9217e65e368e06"
+      ]
+    },
+    "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918": {
+      "name": "Hyperlane Interchain Gas Paymaster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
+      ]
+    },
+    "0xF55041E37E12cD407ad00CE2910B8269B01263b9": {
+      "name": "Graph Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0cf97e609937418ebc8c209404b947cbc914f599"
+      ]
+    },
+    "0x64F990Bf16552A693dCB043BB7bf3866c5E05DdB": {
+      "name": "Graph Epoch Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3fab259f2392f733c60c19492b5678e5d2d2ee31"
+      ]
+    },
+    "0x97307b963662cCA2f7eD50e38dCC555dfFc4FB0b": {
+      "name": "Graph Dispute Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x444c138bf2b151f28a713b0ee320240365a5bfc2"
+      ]
+    },
+    "0x9Ac758AB77733b4150A901ebd659cbF8cB93ED66": {
+      "name": "Graph Rewards Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe633b775790b338b8c5a9ff47ab7c5d0faf4cb7a"
+      ]
+    },
+    "0x8FE00a685Bcb3B2cc296ff6FfEaB10acA4CE1538": {
+      "name": "Graph Curation",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x147a7758ea71d91d545407927b34dd77a5f7c21a"
+      ]
+    },
+    "0xaD0C9DaCf1e515615b0581c8D7E295E296Ec26E6": {
+      "name": "Graph Service Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x866232ec9a9f918a821eba561cc5fc960ef5b3aa"
+      ]
+    },
+    "0xaDcA0dd4729c8BA3aCf3E99F3A9f471EF37b6825": {
+      "name": "Graph GNS",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xfdf6de9c5603d85e1dae3d00a776f43913c9b203"
+      ]
+    },
+    "0x36aFF7001294daE4C2ED4fDEfC478a00De77F090": {
+      "name": "Graph Bridge Escrow",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbcd54513aa593646d72aea31406c633c235ad6ea"
+      ]
+    },
+    "0x01cDC91B0A9bA741903aA3699BF4CE31d6C5cC06": {
+      "name": "Graph L1 Graph Token Gateway",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd41ca6a1d034d178c196dfa916f22f7d1a1b8222"
+      ]
+    },
+    "0x4F4495243837681061C4743b74B3eEdf548D56A5": {
+      "name": "Axelar Gateway",
+      "getter": "getAddress(bytes32)",
+      "getter_arg": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xed9938294acf9ee52d097133ca2caaff0c804f16"
+      ]
+    },
+    "0x26Ac1dbA97C1F3F33EeA9Ad8B3E9d9dC588c023E": {
+      "name": "Spool DAI Lower Risk Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x165ce764e2511bc5bbd1e239db4fdb63234c8ba3"
+      ]
+    },
+    "0xc815e5241bE7F695FE9EcB7255154B2950c55fC1": {
+      "name": "Spool Risk Provider Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb12bde20175296059537cc424c075eef5dcda868"
+      ]
+    },
+    "0xe140bB5F424A53e0687bfC10F6845a5672D7e242": {
+      "name": "Spool Master Spool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x816baa993114656c028e8c3dcae3fc6fc11e4add"
+      ]
+    },
+    "0x4788c0A425Abb27721e05A39C417b69cbA6B065a": {
+      "name": "Spool Fast Withdraw",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5fa90dda9e5bce3ce4c814dfc9a16d6a849999eb"
+      ]
+    },
+    "0x3d3d0A7876D18770a21a5Ea05FeF211EBa808E72": {
+      "name": "Spool Fee Handler",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x71ebff1106cd316e812878f04da36262edfdaefb"
+      ]
+    },
+    "0x22bB10A016B1eb7bFFD304862051aA3fCe723F74": {
+      "name": "Spool Reward Distributor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0caf95109690186f35220ee4f0039a5121840652"
+      ]
+    },
+    "0xc3160C5cc63B6116DD182faA8393d3AD9313e213": {
+      "name": "Spool Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbbf8d63c3cfa38ff2c36b58e380bce2f158991c8"
+      ]
+    },
+    "0xB8d5Fc11F8E1Af30578dB9F77174A1DC171a7D28": {
+      "name": "Spool voSPOOL Rewards",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x79b91c72d13c47afbb8167f5c2f490313a8924cd"
+      ]
+    },
+    "0x3485d3299725bb4a4d7cc48a3835a10e0c82cbea": {
+      "name": "Nomad Accountant",
+      "slot": 0,
+      "implementations": [
+        "0x6a16ac43fa969959ad820bf4ce37869cff5830ba"
+      ]
+    },
+    "0xB70588b1A51F847d13158ff18E9Cac861dF5Fb00": {
+      "name": "Nomad Bridge Router",
+      "slot": 0,
+      "implementations": [
+        "0xe0db61ac718f502b485dec66d013afbbe0b52f84"
+      ]
+    },
+    "0x4D5ff8A01ed833E11Aba43821D2881A5F2911F98": {
+      "name": "Nomad Token Registry",
+      "slot": 0,
+      "implementations": [
+        "0xfd956b862b67c476c9a55d016cffd06ea96fac82"
+      ]
+    },
+    "0x67833a48b3F509d4252ac2c19cd604556eD6c981": {
+      "name": "Nomad Governance Router",
+      "slot": 0,
+      "implementations": [
+        "0xe9f0a0a787ceea82f1c8fe7a783826ebd181e707"
+      ]
+    },
+    "0x8ca56E6235D83ff2F4E779F0b35A6c856d5a2fb2": {
+      "name": "Nomad Bridge Token",
+      "slot": 0,
+      "implementations": [
+        "0x4aa8699cdaa97e72837093f227f40d122ba79611"
+      ]
+    },
+    "0x063e871f8DB991CEAd34B557A00B157B360084cc": {
+      "name": "Nomad Home",
+      "slot": 0,
+      "implementations": [
+        "0xf3bb7e2d4b26ae2c3eac41171840c227f457ea06"
+      ]
+    },
+    "0x0876dfe4acae0e1c0a43302716483f5752298b71": {
+      "name": "Nomad Replica",
+      "slot": 0,
+      "implementations": [
+        "0x7f221a1850c12b57fed1f0831dd25399a13b68c2"
+      ]
+    },
+    "0xf03A7Eb46d01d9EcAA104558C732Cf82f6B6B645": {
+      "name": "Stader MaticX",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5a78f4bd60c92fcbbf1c941bc1136491d2896b35"
+      ]
+    },
+    "0xf556442d5b77a4b0252630e15d8bbe2160870d77": {
+      "name": "Stader Validator Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0a7f554abfbd710d9cdfb7cf88217a91aca7457d"
+      ]
+    },
+    "0x79d922DD382E42A156bC0A354861cDBC4F09110d": {
+      "name": "BendDAO BNFT Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe9cd64fa21b589d8e94a70300cfa5e1652a0e951"
+      ]
+    },
+    "0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e": {
+      "name": "BendDAO Bound WPUNKS",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x4143e1127c04087aac4899555c8b02566b165e94"
+      ]
+    },
+    "0x43078AbfB76bd24885Fd64eFFB22049f92a8c495": {
+      "name": "BendDAO Collector",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x67a05fae0b411588e4fba0d28c6bb33588769501"
+      ]
+    },
+    "0x7C2A19e54e48718f6C60908a9Cff3396E4Ea1eBA": {
+      "name": "BendDAO NFT Oracle",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1bfc8d3d6704d63a9901189cd6dfefd0993a1b25"
+      ]
+    },
+    "0x16ca3E500dA893cF2EEBb6b401247e68ca5BC072": {
+      "name": "BendDAO Reserve Oracle",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xdca414681e92f3ee8bd8e6b40ba5323b002bc48c"
+      ]
+    },
+    "0x70b97A0da65C15dfb0FFA02aEE6FA36e507C2762": {
+      "name": "BendDAO Lend Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x290afb1f68131d39de177199b57fb613a31066a4"
+      ]
+    },
+    "0x4f694372ced64B8Cf389A04f13E67ac0035A6449": {
+      "name": "BendDAO Lend Pool Configurator",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb72d8b46aadd08cceafd52848201384b98849766"
+      ]
+    },
+    "0x5f6ac80CdB9E87f3Cfa6a90E5140B9a16A361d5C": {
+      "name": "BendDAO Lend Pool Loan",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x71bf09450de6327aba596d921a549b71d0d8e990"
+      ]
+    },
+    "0xed1840223484483c0cb050e6fc344d1ebf0778a9": {
+      "name": "BendDAO bendWETH",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8364d03349e76386263005ce79517a1776ddff45"
+      ]
+    },
+    "0x87dde3a3f4b629e389ce5894c9a1f34a7eec5648": {
+      "name": "BendDAO bendDebtWETH",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3f1735b33a0ed1b5c00230f3c162d6b23ca60c3c"
+      ]
+    },
+    "0x3B968D2D299B895A5Fcf3BBa7A64ad0F566e6F88": {
+      "name": "BendDAO WETH Gateway",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe79575692ed7092dd6c5cbbc7203d8df48494c33"
+      ]
+    },
+    "0xeD01f8A737813F0bDA2D4340d191DBF8c2Cbcf30": {
+      "name": "BendDAO Punk Gateway",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x70a987a0e1ea971728a1f872eacd764edae190b1"
+      ]
+    },
+    "0x0d02755a5700414B26FF040e1dE35D337DF56218": {
+      "name": "BendDAO Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x02863c14603c3b157379999f567ddece151e9153"
+      ]
+    },
+    "0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27": {
+      "name": "BendDAO Merkle Distributor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7529834a5974e2d5fff3d0f0591e9a5ca2ca1619"
+      ]
+    },
+    "0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8": {
+      "name": "BendDAO Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x446ab941ffbc867740b55ec084f4c802b979dcf9"
+      ]
+    },
+    "0x26FC1f11E612366d3367fc0cbFfF9e819da91C8d": {
+      "name": "BendDAO Protocol Incentives Controller",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xcabe4e00a44ff38990a42f43312d470de5796fa6"
+      ]
+    },
+    "0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E": {
+      "name": "BendDAO veBEND",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x78519c320a3015af42cb9e2a275ea5c422f11b5b"
+      ]
+    },
+    "0x2338D34337dd0811b684640de74717B73F7B8059": {
+      "name": "BendDAO Fee Distributor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xcc98fdc0fce55cf5c51c52c3d66bc676bc6ee2e2"
+      ]
+    },
+    "0xA1756D785F4abD4ec06dB71c65f18D25083CbF88": {
+      "name": "BendDAO Competition",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x4bab38cd5e463d34f6c4e1c0c38436f3d7fa9720"
+      ]
+    },
+    "0x42d598C2173B356806f0eA452a7091085491C3b2": {
+      "name": "BendDAO OpenSea Adaptor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xdc8f0910d5b783cc038c6f9c94325766906105f6"
+      ]
+    },
+    "0x3710D54de90324C8BA4B534D1e3F0fCEDc679ca4": {
+      "name": "BendDAO Down Payment",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe6ca85c4ee14eda3ebe0ff52d991de9f0a2ba9cc"
+      ]
+    },
+    "0xDAFCe4AcC2703A24F29d1321AdAADF5768F54642": {
+      "name": "BendDAO Stake Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x9b399900d118defc544edc5d30db6da11ca549af"
+      ]
+    },
+    "0x95Af143a021DF745bc78e845b54591C53a8B3A51": {
+      "name": "Flux Finance Unitroller",
+      "slot": 2,
+      "implementations": [
+        "0xdc7b90593cafe7a919d22b903fed21bf27da9719"
+      ]
+    },
+    "0x1dD7950c266fB1be96180a8FDb0591F70200E018": {
+      "name": "Flux Finance OUSG",
+      "slot": 20,
+      "implementations": [
+        "0x159d359b55a6d0cbe9b306862d13515fa1992d0a"
+      ]
+    },
+    "0x465a5a630482f3abD6d3b84B39B29b07214d19e5": {
+      "name": "Flux Finance USDC",
+      "slot": 20,
+      "implementations": [
+        "0xb521dcf5b12e878811e079c2159ec56d5edafbc5"
+      ]
+    },
+    "0xe2bA8693cE7474900A045757fe0efCa900F6530b": {
+      "name": "Flux Finance DAI",
+      "slot": 20,
+      "implementations": [
+        "0x690ef7cd8af50179fbbd09abc4017e59c2ae7d82"
+      ]
+    },
+    "0x336505EC1BcC1A020EeDe459f57581725D23465A": {
+      "name": "Flux Finance Governor",
+      "slot": 2,
+      "implementations": [
+        "0x8886344a1b9b840bed590f2ef7379dd37e169c8e"
+      ]
+    },
+    "0x2d264EBDb6632A06A1726193D4d37FeF1E5dbDcd": {
+      "name": "Perennial Collateral",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x32f3ab7b3c5bba0738b72fdb83fce6bb1a1a943c"
+      ]
+    },
+    "0x9df509186b6d3b7D033359f94c8b1BB5544d51b3": {
+      "name": "Perennial Controller",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1593318424df66128cb7d0c5574b1283c3a74c3d"
+      ]
+    },
+    "0xE77076D3EeE12dA1d7402Ff4e6Ca12A8d99FcE8B": {
+      "name": "Perennial Multi Invoker",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x83597765904e28e3a360c17cb1f5635cbcbfdd63"
+      ]
+    },
+    "0x69a682F90d58c8D1ABEa18aE1bc98c9A1be4f2EB": {
+      "name": "Perennial Incentivizer",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa5492624f46f7ef346bfc46a0fb364eba3b1f525"
+      ]
+    },
+    "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d": {
+      "name": "Decentraland LAND",
+      "getter": "currentContract()",
+      "implementations": [
+        "0x554bb6488ba955377359bed16b84ed0822679cdc"
+      ]
+    },
+    "0x3a1469499d0be105D4f77045Ca403A5f6dC2F3f5": {
+      "name": "Decentraland Rentals",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe90636e24d8faf02aa0e01c26d72dab9629865cb"
+      ]
+    },
+    "0x46D2A90153cd8F09464CA3a5605B6BBeC9C2fF01": {
+      "name": "Sherlock Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x91f23210a34721d33c8842673f2ba20146b8c70f"
+      ]
+    },
+    "0xdc602965F3e5f1e7BAf2446d5564b407d5113A06": {
+      "name": "BadgerDAO Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x00000b7665850f6b1e99447a68db1e83d8deafe3"
+      ]
+    },
+    "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92": {
+      "name": "Ondo OUSG",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1ceb44b6e515abf009e0ccb6ddafd723886cf3ff"
+      ]
+    },
+    "0xAB1c342C7bf5Ec5F02ADEA1c2270670bCa144CbB": {
+      "name": "Iron Bank Unitroller",
+      "slot": 2,
+      "implementations": [
+        "0xcb9ab119be270f58d40e3d57d1ecc82bd479d59f"
+      ]
+    },
+    "0x00e5c0774A5F065c285068170b20393925C84BF3": {
+      "name": "Iron Bank EUR",
+      "slot": 18,
+      "implementations": [
+        "0x7e8844ea4c211a69ad9308ba0b6cdb3ea0bb2b05"
       ]
     }
   },
@@ -935,6 +1406,182 @@
       "implementations": [
         "0xb10c888b39bdd7a098f64b2a34b2b21b2a2a3f18"
       ]
+    },
+    "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
+      "name": "Hyperlane Mailbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x961877927ec6b0a9133dbbb1d0232cb6a5c28b54"
+      ]
+    },
+    "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918": {
+      "name": "Hyperlane Interchain Gas Paymaster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
+      ]
+    },
+    "0x304acf330bbE08d1e512eefaa92F6a57871fD895": {
+      "name": "Axelar Gateway",
+      "getter": "getAddress(bytes32)",
+      "getter_arg": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x39edb9188032d87657e8683724c11b1486cc4cb6"
+      ]
+    },
+    "0x7276241a669489e4bbb76f63d2a43bfe63080f2f": {
+      "name": "Stader Stake Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbb394206d8f19942687ef9cdb162a785c24aae0e"
+      ]
+    },
+    "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275": {
+      "name": "Stader BNBx Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7422bf8e583ebefbe05664d1eb75f06160d9e43f"
+      ]
+    },
+    "0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF": {
+      "name": "Quoll Finance QUO",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x79329b67c6207f15f8772b89e7c8a9b7536ef632"
+      ]
+    },
+    "0x6359e827C813f6d6526e270C12E7Cf09d6a2C348": {
+      "name": "Quoll Finance QUO Reward Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x2eb6663663a4057dccd4961ee9b724761302ef10"
+      ]
+    },
+    "0xf0CC2D6F7ea0214D419C61Cd7c2a6d12c60F6E7b": {
+      "name": "Quoll Finance Master Chef",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa33ca6726b238e64bff804f8bd5e1525a02a1802"
+      ]
+    },
+    "0x0fE34B8aaAf3f522A6088E278936D10F934c0b19": {
+      "name": "Quoll Finance qWOM",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa510b3dd247b6f9a07610809bddd65e055836591"
+      ]
+    },
+    "0xe96c48C5FddC0DC1Df5Cf21d68A3D8b3aba68046": {
+      "name": "Quoll Finance Wombat Voter Proxy",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x9f30d83ba37ccb276b5ec30ab9373c75ae88051e"
+      ]
+    },
+    "0x6FCA396A8a2b623b24A998A5808c0E144Aa0689a": {
+      "name": "Quoll Finance Wombat Booster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0a297dd0b32797d9b04673dc4b49278a3cf82a32"
+      ]
+    },
+    "0xDFd69E83d4A5d2E15D5Dcf2F4f52CDdC44CB93Fc": {
+      "name": "Quoll Finance WomDepositor",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa54b061ee12ec8319ed4a9458a787f1f268d3a96"
+      ]
+    },
+    "0xcF24544403E3F526c8fed26Dd1e5240b4112a10B": {
+      "name": "Quoll Finance qWOM Reward Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x95196ee6f02d64d259a0fb291a9f238a7cfa55d9"
+      ]
+    },
+    "0xe76eEA460d02663275962a99529700E132EF526c": {
+      "name": "Quoll Finance vlQUO",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe08d8f553ad90f351a41de61dc472252ce248aa7"
+      ]
+    },
+    "0xC17ADEE898ba323242B7C9654F617F7542128322": {
+      "name": "Quoll Finance QUO Zap",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7a5c0d592e00da8fb38d1e4c4fe06cdd98a73780"
+      ]
+    },
+    "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5": {
+      "name": "Helio HAY Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3ff313e7aabac6420e335cf8e466acda73a74276"
+      ]
+    },
+    "0xB68443Ee3e828baD1526b3e0Bdf2Dfc6b1975ec4": {
+      "name": "Helio Interaction",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa188018e8d2c00ac1da71ee34d00e46506040eb3"
+      ]
+    },
+    "0xe66395EbA979968e574984268979C49a57EB59Ee": {
+      "name": "Helio Rewards",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3ed0052c81f465a49615d55cf482262a76fe09cc"
+      ]
+    },
+    "0x563282106A5B0538f8673c787B3A16D3Cc1DbF1a": {
+      "name": "Helio CEROS aBNBc",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x95d794792952dbc891225072419a103dba260387"
+      ]
+    },
+    "0x4b30fcAA7945fE9fDEFD2895aae539ba102Ed6F6": {
+      "name": "Helio BNB",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x3ade62a5d60f429e4482ab51da96d15c604144bb"
+      ]
+    },
+    "0x25b21472c073095bebC681001Cbf165f849eEe5E": {
+      "name": "Helio CeVault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x634a0d1d9e6b9f6e24c973cfed879437b785f5bc"
+      ]
+    },
+    "0xA186D2363E5048D129E0a35E2fddDe767d4dada8": {
+      "name": "Helio Ceros Router",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x363e21ec23bba74bd3831079e214d93a1ce304cd"
+      ]
+    },
+    "0xa835F890Fcde7679e7F7711aBfd515d2A267Ed0B": {
+      "name": "Helio Provider",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xeb03ce6dc94600e9f4d90698c2ce6708052d2f7b"
+      ]
+    },
+    "0xC228CefDF841dEfDbD5B3a18dFD414cC0dbfa0D8": {
+      "name": "pStake Stake Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1ba1725fe9d7a907458ca167eb8d83aedfa1e62a"
+      ]
+    },
+    "0x2FC80E731C40ec6590783bb11Eede9dd43fC69bf": {
+      "name": "pStake Fee Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xdc82f831208be0183701f0cc5ceba3ae03245add"
+      ]
     }
   },
   "arbitrum": {
@@ -1021,6 +1668,146 @@
       "implementations": [
         "0xbb93c7f378b9b531216f9ad7b5748be189a55807"
       ]
+    },
+    "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
+      "name": "Hyperlane Mailbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x4b5bc88a0d383c3c6e72d9889afabb12a5dcccfa"
+      ]
+    },
+    "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918": {
+      "name": "Hyperlane Interchain Gas Paymaster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
+      ]
+    },
+    "0x00669A4CF01450B64E8A2A20E9b1FCB71E61eF03": {
+      "name": "Graph Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x2787f89355924a8781acf988f12855c6cd495a06"
+      ]
+    },
+    "0x5A843145c43d328B9bB7a4401d94918f131bB281": {
+      "name": "Graph Epoch Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xeededb3660154f439d93bff612f7902edf07b848"
+      ]
+    },
+    "0x0Ab2B043138352413Bb02e67E626a70320E3BD46": {
+      "name": "Graph Dispute Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0e55b996eb7bfc3175e883d02ff55a34f8c9986e"
+      ]
+    },
+    "0x971B9d3d0Ae3ECa029CAB5eA1fB0F72c85e6a525": {
+      "name": "Graph Rewards Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa301deabdadf9dbd01932aa13739c9620faa54fd"
+      ]
+    },
+    "0x22d78fb4bc72e191C765807f8891B5e1785C8014": {
+      "name": "Graph Curation",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x234071f4b1e322d1167d63503498f82cc7fa4606"
+      ]
+    },
+    "0x072884c745c0A23144753335776c99BE22588f8A": {
+      "name": "Graph Service Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd32569da3b89b040a0589b5b8d2c721a68472ff3"
+      ]
+    },
+    "0xec9A7fb6CbC2E41926127929c2dcE6e9c5D33Bec": {
+      "name": "Graph GNS",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x8cab11d17082c67afc3dc35d1a2e02b23db914ab"
+      ]
+    },
+    "0x9623063377AD1B27544C965cCd7342f7EA7e88C7": {
+      "name": "Graph L2 Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xaffcb96181d920fe8c0af046c49b2c9ec98b28df"
+      ]
+    },
+    "0x65E1a5e8946e7E87d9774f5288f41c30a99fD302": {
+      "name": "Graph L2 Graph Token Gateway",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x6f37b2af8a0cc74f1bfddf2e9302cb226710127f"
+      ]
+    },
+    "0xAF8CeD28FcE00ABD30463D55dA81156AA5aEEEc2": {
+      "name": "Perennial Collateral",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x69a682f90d58c8d1abea18ae1bc98c9a1be4f2eb"
+      ]
+    },
+    "0xA59eF0208418559770a48D7ae4f260A28763167B": {
+      "name": "Perennial Controller",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa8b58125953c7f2948e82a4558c745c1cd3237ee"
+      ]
+    },
+    "0xe72E82b672d7D3e206327C0762E9805fbFCBCa92": {
+      "name": "Perennial Multi Invoker",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x18d1e8c75d7d3b91307bc08d85eb746a418dd2d3"
+      ]
+    },
+    "0xfC20BccA96BDE758E9C69151d99cEcfEAE3AB37E": {
+      "name": "Perennial Incentivizer",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x5b495f170bfcba51db96ff16ba8bc4686cfa92b4"
+      ]
+    },
+    "0x5A572B5fBBC43387B5eF8de2C4728A4108ef24a6": {
+      "name": "Perennial Balanced Vault Alpha",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x68f680607a5c32cab860f84f5f5e9f9497f66535"
+      ]
+    },
+    "0x1960628db367281B1a186dD5B80B5dd6978F016F": {
+      "name": "Perennial Balanced Vault Bravo",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x741fc06b5de25ac5b31f54b92ee3bf1c97bf8666"
+      ]
+    },
+    "0x17B07cfBAB33C0024040e7C299f8048F4a49679B": {
+      "name": "Sentiment Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe22d240b6ba7143a20c45253ed605d2ede2b2991"
+      ]
+    },
+    "0x62c5AA8277E49B3EAd43dC67453ec91DC6826403": {
+      "name": "Sentiment Account Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb08501a3020ae096c2edd6495d0957b615d8c093"
+      ]
+    },
+    "0xdc602965F3e5f1e7BAf2446d5564b407d5113A06": {
+      "name": "BadgerDAO Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x00000b7665850f6b1e99447a68db1e83d8deafe3"
+      ]
     }
   },
   "avalanche": {
@@ -1064,6 +1851,63 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0xa6a7b56f27c9c943945e8a636c01e433240700d8"
+      ]
+    },
+    "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
+      "name": "Hyperlane Mailbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xfb4712576680002c2690f66c0c5eedea5260dbfb"
+      ]
+    },
+    "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918": {
+      "name": "Hyperlane Interchain Gas Paymaster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
+      ]
+    },
+    "0x5029C0EFf6C34351a0CEc334542cDb22c7928f78": {
+      "name": "Axelar Gateway",
+      "getter": "getAddress(bytes32)",
+      "getter_arg": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x47e1f636a2c374e8935106593b4fbe0d244df9b7"
+      ]
+    },
+    "0x486Af39519B4Dc9a7fCcd318217352830E8AD9b4": {
+      "name": "Benqi Finance Unitroller",
+      "slot": 2,
+      "implementations": [
+        "0xd8e426c61b0fbbda06e9f603263abea09d717dbd"
+      ]
+    },
+    "0xe194c4c5aC32a3C9ffDb358d9Bfd523a0B6d1568": {
+      "name": "Benqi Finance qiBTC",
+      "slot": 18,
+      "implementations": [
+        "0x50b7545627a5162f82a992c33b87adc75187b218"
+      ]
+    },
+    "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE": {
+      "name": "Benqi Finance Staked AVAX",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0ce7f620eb645a4fbf688a1c1937bc6cb0cbdd29"
+      ]
+    },
+    "0x784DA19e61cf348a8c54547531795ECfee2AfFd1": {
+      "name": "Benqi Finance PglStakingContract",
+      "getter": "implementation()",
+      "implementations": [
+        "0xe59988d947f80b59ff1de7bd413e5e5517906cb2"
+      ]
+    },
+    "0x77533A0b34cd9Aa135EBE795dc40666Ca295C16D": {
+      "name": "Benqi Finance QiTokenSaleDistributor",
+      "getter": "implementation()",
+      "implementations": [
+        "0x23de2004592b04d594d23c9a928d0552e29d6bea"
       ]
     }
   },
@@ -1143,6 +1987,111 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x3a31a7e94b30bd92151b4711522f118902977c3c"
+      ]
+    },
+    "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
+      "name": "Hyperlane Mailbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x6989120f7042df0895dbe856b73a31e4cd0a2cad"
+      ]
+    },
+    "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918": {
+      "name": "Hyperlane Interchain Gas Paymaster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
+      ]
+    },
+    "0x82ac2CE43e33683c58BE4cDc40975E73aA50f459": {
+      "name": "Perpetual Clearing House",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x12c884f45062b58e1592d1438542731829790a25"
+      ]
+    },
+    "0xA7f3FC32043757039d5e13d790EE43edBcBa8b7c": {
+      "name": "Perpetual Account Balance",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x28f1e979ac21b80543adc7c70f15cf0dbaf340e0"
+      ]
+    },
+    "0x34235C8489b06482A99bb7fcaB6d7c467b92d248": {
+      "name": "Perpetual Base Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x46453f42f41b52fd9423ce54b7572efb45f2f1cf"
+      ]
+    },
+    "0xBd7a3B7DbEb096F0B832Cf467B94b091f30C34ec": {
+      "name": "Perpetual Exchange",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xdcb820d383ad87737da41f7f201866ef8792616a"
+      ]
+    },
+    "0x1C9a192DF3936cBF093d8afDc352718bCF834EB6": {
+      "name": "Perpetual Insurance Fund",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x210863729508500ae4b4f6cdcd0c083ae6dd8b94"
+      ]
+    },
+    "0xd5820eE0F55205f6cdE8BB0647072143b3060067": {
+      "name": "Perpetual Market Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xabea9cd285b402331386bfcf370440d8aedfd171"
+      ]
+    },
+    "0xDfcaEBe8f6ea5E022BeFAFaE8c6Cdae8D4E1094b": {
+      "name": "Perpetual Order Book",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x670e5cd858d92c441dddda6d903a96998a514430"
+      ]
+    },
+    "0xC84Da6c8ec7A57cD10B939E79eaF9d2D17834E04": {
+      "name": "Perpetual Quote Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x17793262e3625b1a57fb325b5a1f79b05de30b14"
+      ]
+    },
+    "0x8Ac835C05530f10595C8015467339523154b4D85": {
+      "name": "Perpetual Collateral Manager",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x840048281d438bc834fa5c8a3d0ba7822553bc88"
+      ]
+    },
+    "0xAD7b4C162707E0B2b5f6fdDbD3f8538A5fbA0d60": {
+      "name": "Perpetual Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd24b8feeea13a0ecce247e37e8ad1a0b2620fc5b"
+      ]
+    },
+    "0x3230Cbb08C64d0804BE5b7f4cE43834291490a91": {
+      "name": "Perpetual Liquidity Mining",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe566e89262fedb8e43677e11d8e1a746c67b8a2a"
+      ]
+    },
+    "0x93B9DaC2d57AaD1966859E8d1b5cCF5b95de9af4": {
+      "name": "Perpetual Limit Order Book",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x02ec0d78a6e981dde14efef0792774fd236645a7"
+      ]
+    },
+    "0x41C8759533bDD05D73f8EE8b876cFE6600De288D": {
+      "name": "Perpetual Limit Order Reward Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0315b83b137ef6d1bbc6a29ae5c524666e030c75"
       ]
     }
   },
@@ -1253,7 +2202,7 @@
       ]
     },
     "0xfd225C9e6601C9d38d8F98d8731BF59eFcF8C0E3": {
-      "name": "maticX Child Pool",
+      "name": "Stader maticX Child Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0xd6f5781b49f774aebdea7ab52671b0d72d36b6dd"
@@ -1453,6 +2402,139 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x543d94657fa8c710818f0d9f7edec7f4ca03ccda"
+      ]
+    },
+    "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
+      "name": "Hyperlane Mailbox",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xd63c65e84059b9d32bc979016bbc2976138da694"
+      ]
+    },
+    "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918": {
+      "name": "Hyperlane Interchain Gas Paymaster",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
+      ]
+    },
+    "0xEC38621e72D86775a89C7422746de1f52bbA5320": {
+      "name": "Davos Protocol Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe7cc549ea4fd4f3179eff67a35ebe35264db6a1c"
+      ]
+    },
+    "0xbD38B722480e2e3D540CaFC44A113d92E1015faa": {
+      "name": "Davos Protocol Clipper",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe148c9fc6cb7e968bff86ec9a6a881662d8ed9bb"
+      ]
+    },
+    "0x122897d16b2Dd5a193EFCe19A1B4f34d1C540118": {
+      "name": "Davos Protocol Dog",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0627528cc5e1779ff24e47c74b8e86492436b9fc"
+      ]
+    },
+    "0x477c1A369eA157b42f6584A8A5960f9d34D7173E": {
+      "name": "Davos Protocol Gem Join",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x6a6450a6a25f67ad159d4a2c0ea701fc423ec55e"
+      ]
+    },
+    "0x8FCD9542a6Ee0F05f470230da5B8cB41033da6Df": {
+      "name": "Davos Protocol DavosJoin",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0633ea3769472bd74f30fad828ffb864d9f2e591"
+      ]
+    },
+    "0xF97680e99Be42daCCEA9fe6f9F9aa385ccf97a62": {
+      "name": "Davos Protocol Spotter",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x7e426f367c40fc6e1ec919e0a7e51fcb9a564b0f"
+      ]
+    },
+    "0xA983f4b5137B89f82B2Eb5DAC415e6490F06f639": {
+      "name": "Davos Protocol Vat",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x0837253af481db0a9b5ea17f9f983e7606051995"
+      ]
+    },
+    "0x58CF68493BC178a17b43b270DDBB8d4c1A271429": {
+      "name": "Davos Protocol Vow",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xf2209993fed25c82d83b61579caa55e8af9116ee"
+      ]
+    },
+    "0x046B71694B3b659F491247167EDa42E0556123cf": {
+      "name": "Davos Protocol Davos Provider",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x92afc5c40d03155151b2cd76fa0f0c7c6e31ee03"
+      ]
+    },
+    "0x02C7420407A6439d49E9816399A5d5b03187363B": {
+      "name": "Davos Protocol Waiting Pool",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xfedf355430be38c298c0515e804a0a5932b7672c"
+      ]
+    },
+    "0x77F4C841cb87fDFa43aB909cf56f7710Af648a8e": {
+      "name": "Davos Protocol Master Vault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xfa3fa862d91b9b264d062024cf81cc6c531aea3f"
+      ]
+    },
+    "0x5E851dC1f56A05Bb6d3C053FA756304a5171C345": {
+      "name": "Davos Protocol CeVault",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x2bde5adb0da369e28c29b8ea7aca997197167d62"
+      ]
+    },
+    "0xdd0BdF5749e300f946cdb1dDFE1ffa828eC0dB72": {
+      "name": "Davos Protocol Interaction",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x17a902fdc6860734751e315f0799673673096c9b"
+      ]
+    },
+    "0x08ABFd7DEd42CC33900d3457118eAB7fC40b71c8": {
+      "name": "Davos Protocol dMATIC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x87ad5ab05d7c1e1f904e029783810a2a95702563"
+      ]
+    },
+    "0x1C436C1EFb4608dFfDC8bace99d2B03c314f3348": {
+      "name": "Decentraland TPR",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1f8063cc04398be214a7d8dd25b6b6e2b870d99e"
+      ]
+    },
+    "0xDDb3781Fff645325C8896AA1F067bAa381607ecc": {
+      "name": "Decentraland Collections Beacon",
+      "getter": "implementation()",
+      "implementations": [
+        "0x006080c6061c4af79b39da0842a3a22a7b3f185e"
+      ]
+    },
+    "0xdc602965F3e5f1e7BAf2446d5564b407d5113A06": {
+      "name": "BadgerDAO Registry",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x00000b7665850f6b1e99447a68db1e83d8deafe3"
       ]
     }
   }
