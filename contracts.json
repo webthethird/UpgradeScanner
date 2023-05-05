@@ -167,7 +167,8 @@
       "name": "Aave Treasury",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x1aa435ed226014407fa6b889e9d06c02b1a12af3"
+        "0x1aa435ed226014407fa6b889e9d06c02b1a12af3",
+        "0x80f2c02224a2e548fc67c0bf705ebfa825dd5439"
       ]
     },
     "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
@@ -609,7 +610,10 @@
       "name": "Ankr ETH Staking Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x52f24a5e03aee338da5fd9df68d2b6fae1178827"
+        "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+        "0x7885d048e41fb3c5697ce1cdc5eb3aeea276c964",
+        "0x14ec5317e5ebc0d1f62a7acf8ddeaf05d8eeb2bc",
+        "0x1701ad6a252e24dee1d71dc1cad6da5426e0a3f1"
       ]
     },
     "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb": {
@@ -679,8 +683,8 @@
       "name": "Lido Staked MATIC",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x0000000000000000000000000000000000000000",
-        "0x5604332de9e9dd8f485bcbb3442809498ab7983e"
+        "0x5604332de9e9dd8f485bcbb3442809498ab7983e",
+        "0x6c25aebd494a9984a3d7c8cf395c8713e0c74d98"
       ]
     },
     "0x1b6c71EdbdB8174420Cf9B368B38A1B52bfDd7F3": {
@@ -1010,7 +1014,8 @@
       "name": "BendDAO veBEND",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x78519c320a3015af42cb9e2a275ea5c422f11b5b"
+        "0x78519c320a3015af42cb9e2a275ea5c422f11b5b",
+        "0x82aa41164d24bfbb2773d133967ec20d24e86524"
       ]
     },
     "0x2338D34337dd0811b684640de74717B73F7B8059": {
@@ -1582,6 +1587,13 @@
       "implementations": [
         "0xdc82f831208be0183701f0cc5ceba3ae03245add"
       ]
+    },
+    "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5": {
+      "name": "Safemoon Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xc047237b2120d397c38ee287baf94a28629cf80c"
+      ]
     }
   },
   "arbitrum": {
@@ -1589,7 +1601,8 @@
       "name": "OpenOcean Exchange",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xfe9a934a8607ef020adf22d4431d6ce6005aa4d3"
+        "0xfe9a934a8607ef020adf22d4431d6ce6005aa4d3",
+        "0x9915d29439f736c941594e0c35cf88f96ab1d3be"
       ]
     },
     "0xa5f208e072434bC67592E4C49C1B991BA79BCA46": {
@@ -1617,7 +1630,8 @@
       "name": "Aave V3 Treasury",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xa6a7b56f27c9c943945e8a636c01e433240700d8"
+        "0xa6a7b56f27c9c943945e8a636c01e433240700d8",
+        "0x981ab570ac289938f296b975c524b66fbf1b8774"
       ]
     },
     "0x727354712BDFcd8596a3852Fd2065b3C34F4F770": {
@@ -1850,7 +1864,8 @@
       "name": "Aave V3 Treasury",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xa6a7b56f27c9c943945e8a636c01e433240700d8"
+        "0xa6a7b56f27c9c943945e8a636c01e433240700d8",
+        "0xbdd1458a6d399c88d4509275e4463485c6c86ef3"
       ]
     },
     "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
@@ -1951,7 +1966,8 @@
       "name": "Aave V3 Treasury",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xa6a7b56f27c9c943945e8a636c01e433240700d8"
+        "0xa6a7b56f27c9c943945e8a636c01e433240700d8",
+        "0x230e0321cf38f09e247e50afc7801ea2351fe56f"
       ]
     },
     "0xaEb62e6F27BC103702E7BC879AE98bceA56f027E": {
@@ -2093,6 +2109,20 @@
       "implementations": [
         "0x0315b83b137ef6d1bbc6a29ae5c524666e030c75"
       ]
+    },
+    "0x5a5755E1916F547D04eF43176d4cbe0de4503d5d": {
+      "name": "Hundred Finance Unitroller",
+      "slot": 2,
+      "implementations": [
+        "0x8279b109d3a8a61fcdb2532f08e14e763a064be1"
+      ]
+    },
+    "0x35594E4992DFefcB0C20EC487d7af22a30bDec60": {
+      "name": "Hundred Finance WBTC",
+      "slot": 19,
+      "implementations": [
+        "0x7100cbca885905f922a19006cf7fd5d0e1bbb26c"
+      ]
     }
   },
   "polygon": {
@@ -2135,7 +2165,8 @@
       "name": "Aave V3 Treasury",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xc773bf5a987b29ddeac77cf1d48a22a4ce5b0577"
+        "0xc773bf5a987b29ddeac77cf1d48a22a4ce5b0577",
+        "0x230e0321cf38f09e247e50afc7801ea2351fe56f"
       ]
     },
     "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7": {
