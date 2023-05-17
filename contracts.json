@@ -160,7 +160,8 @@
       "name": "Aave Lending Pool V3",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xfcc00a1e250644d89af0df661bc6f04891e21585"
+        "0xfcc00a1e250644d89af0df661bc6f04891e21585",
+        "0xf1cd4193bbc1ad4a23e833170f49d60f3d35a621"
       ]
     },
     "0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c": {
@@ -249,7 +250,8 @@
       "slot": 6,
       "offset": 1,
       "implementations": [
-        "0x9f2e4581d47c2851ea1150ab8126b45c5939d8f5"
+        "0x9f2e4581d47c2851ea1150ab8126b45c5939d8f5",
+        "0xc3430bc8c2c05fc6b42114bf7f82a3e2f3ee9454"
       ]
     },
     "0xf5c9f957705bea56a7e806943f98f7777b995826": {
@@ -365,7 +367,8 @@
       "name": "OpenOcean Exchange",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x01ec93c289cb003e741f621cdd4fe837243f8905"
+        "0x01ec93c289cb003e741f621cdd4fe837243f8905",
+        "0xfedfe25ea1c959ea6066a6cadd6ff5b4579f92ae"
       ]
     },
     "0xD291E7a03283640FDc51b121aC401383A46cC623": {
@@ -393,7 +396,8 @@
       "name": "Lido stETH",
       "getter": "implementation()",
       "implementations": [
-        "0x47ebab13b806773ec2a2d16873e2df770d130b50"
+        "0x47ebab13b806773ec2a2d16873e2df770d130b50",
+        "0x17144556fd3424edc8fc8a4c940b2d04936d17eb"
       ]
     },
     "0x1344A36A1B56144C3Bc62E7757377D288fDE0369": {
@@ -1360,21 +1364,24 @@
       "name": "Ankr BNB Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xc56c7481f610e890e51590c32ce4678a7c2d7f80"
+        "0xc56c7481f610e890e51590c32ce4678a7c2d7f80",
+        "0x3aa5b53f10f82474f7b88fa893b3b3bfb0680310"
       ]
     },
     "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827": {
       "name": "Ankr Staking BNB Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xa2d1aa68a184d6243d8da9ae885742c635c5cc8b"
+        "0xa2d1aa68a184d6243d8da9ae885742c635c5cc8b",
+        "0x2c00ce1a935ff8c9e78580533e2e17c36281c26e"
       ]
     },
     "0xfe39985D7eFF914c50A06bA0cFfcCA8361e00C0e": {
       "name": "Ankr Reward Earning BNB",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xe380b02b16e050c2801cca83461916feca652ecf"
+        "0xe380b02b16e050c2801cca83461916feca652ecf",
+        "0x952398318838b4915ee5e800622a9613887759f5"
       ]
     },
     "0x2D7D5f298067E81e8827eB686428881f4c988dC1": {
@@ -1594,6 +1601,15 @@
       "implementations": [
         "0xc047237b2120d397c38ee287baf94a28629cf80c"
       ]
+    },
+    "0x977087422C008233615b572fBC3F209Ed300063a": {
+      "name": "Level Finance Referral Controller",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xeb3e6e2a30b2c23ac3442fbb25d6fe2fe495e3c3",
+        "0x9f00fbd6c095d2c542687ed5afb68d9c3fb2f464",
+        "0x30875f0502d3a7e28ee7eb2c9e886869ffa94856"
+      ]
     }
   },
   "arbitrum": {
@@ -1602,7 +1618,8 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0xfe9a934a8607ef020adf22d4431d6ce6005aa4d3",
-        "0x9915d29439f736c941594e0c35cf88f96ab1d3be"
+        "0x9915d29439f736c941594e0c35cf88f96ab1d3be",
+        "0xe506d93b4f37d6b6efce050bc610b116693dee6d"
       ]
     },
     "0xa5f208e072434bC67592E4C49C1B991BA79BCA46": {
@@ -1623,7 +1640,8 @@
       "name": "Aave V3 Lending Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x270d4c1b6f0bb172a9fd628e29530ca484190013"
+        "0x270d4c1b6f0bb172a9fd628e29530ca484190013",
+        "0xbcb167bdcf14a8f791d6f4a6edd964aed2f8813b"
       ]
     },
     "0x053D55f9B5AF8694c503EB288a1B7E552f590710": {
@@ -1822,6 +1840,17 @@
       "implementations": [
         "0x00000b7665850f6b1e99447a68db1e83d8deafe3"
       ]
+    },
+    "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0": {
+      "name": "Deus Finance DEI Token",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x528e6e8a69b148fd77edc06e1121d7b8056b071c",
+        "0x1472b3081d81b792e697aea90accbbc4adc5baf9",
+        "0xbc1b62db243b51dabcd9540473324f36e094ec55",
+        "0x1472b3081d81b792e697aea90accbbc4adc5baf9",
+        "0x7a6f1217c97de6ae9bf7bc2b526c72a0fb8c4093"
+      ]
     }
   },
   "avalanche": {
@@ -1857,7 +1886,8 @@
       "name": "Aave V3 Lending Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xdf9e4abdbd94107932265319479643d3b05809dc"
+        "0xdf9e4abdbd94107932265319479643d3b05809dc",
+        "0xcf85ff1c37c594a10195f7a9ab85cbb0a03f69de"
       ]
     },
     "0x5ba7fd868c40c16f7aDfAe6CF87121E13FC2F7a0": {
@@ -1959,7 +1989,8 @@
       "name": "Aave V3 Lending Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x270d4c1b6f0bb172a9fd628e29530ca484190013"
+        "0x270d4c1b6f0bb172a9fd628e29530ca484190013",
+        "0x764594f8e9757ede877b75716f8077162b251460"
       ]
     },
     "0xB2289E329D2F85F1eD31Adbb30eA345278F21bcf": {
@@ -2023,14 +2054,16 @@
       "name": "Perpetual Clearing House",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x12c884f45062b58e1592d1438542731829790a25"
+        "0x12c884f45062b58e1592d1438542731829790a25",
+        "0xe06d686c4e375db8f1156efba1d3d1d44dc255c3"
       ]
     },
     "0xA7f3FC32043757039d5e13d790EE43edBcBa8b7c": {
       "name": "Perpetual Account Balance",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x28f1e979ac21b80543adc7c70f15cf0dbaf340e0"
+        "0x28f1e979ac21b80543adc7c70f15cf0dbaf340e0",
+        "0xfdadab426e4505030b958f17fa41547e018e3836"
       ]
     },
     "0x34235C8489b06482A99bb7fcaB6d7c467b92d248": {
@@ -2044,7 +2077,8 @@
       "name": "Perpetual Exchange",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xdcb820d383ad87737da41f7f201866ef8792616a"
+        "0xdcb820d383ad87737da41f7f201866ef8792616a",
+        "0x81d4bdb63e59339375a1376a3bd0d99c22fc0126"
       ]
     },
     "0x1C9a192DF3936cBF093d8afDc352718bCF834EB6": {
@@ -2058,14 +2092,16 @@
       "name": "Perpetual Market Registry",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xabea9cd285b402331386bfcf370440d8aedfd171"
+        "0xabea9cd285b402331386bfcf370440d8aedfd171",
+        "0x12a5ddaabaa461c3a8d4f32f0cba2b854324f108"
       ]
     },
     "0xDfcaEBe8f6ea5E022BeFAFaE8c6Cdae8D4E1094b": {
       "name": "Perpetual Order Book",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x670e5cd858d92c441dddda6d903a96998a514430"
+        "0x670e5cd858d92c441dddda6d903a96998a514430",
+        "0x4a2d20e1f412f78182b71780803cc7c8234a9794"
       ]
     },
     "0xC84Da6c8ec7A57cD10B939E79eaF9d2D17834E04": {
@@ -2086,7 +2122,8 @@
       "name": "Perpetual Vault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xd24b8feeea13a0ecce247e37e8ad1a0b2620fc5b"
+        "0xd24b8feeea13a0ecce247e37e8ad1a0b2620fc5b",
+        "0x2f8508fc4bfe338b944a9b93b05a9b9725590023"
       ]
     },
     "0x3230Cbb08C64d0804BE5b7f4cE43834291490a91": {
@@ -2100,7 +2137,8 @@
       "name": "Perpetual Limit Order Book",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x02ec0d78a6e981dde14efef0792774fd236645a7"
+        "0x02ec0d78a6e981dde14efef0792774fd236645a7",
+        "0x8ea0e20e9bb736e66f6aefc4078fc339d058f1a3"
       ]
     },
     "0x41C8759533bDD05D73f8EE8b876cFE6600De288D": {
@@ -2158,7 +2196,8 @@
       "name": "Aave V3 Lending Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xdf9e4abdbd94107932265319479643d3b05809dc"
+        "0xdf9e4abdbd94107932265319479643d3b05809dc",
+        "0xb77fc84a549ecc0b410d6fa15159c2df207545a3"
       ]
     },
     "0xe8599F3cc5D38a9aD6F3684cd5CEa72f10Dbc383": {
