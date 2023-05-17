@@ -63,6 +63,3 @@ out
 
 # Echidna
 crytic-export
-
-# Avoid committing potentially differently licensed code..
-implementations
