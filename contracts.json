@@ -1608,7 +1608,8 @@
       "implementations": [
         "0xeb3e6e2a30b2c23ac3442fbb25d6fe2fe495e3c3",
         "0x9f00fbd6c095d2c542687ed5afb68d9c3fb2f464",
-        "0x30875f0502d3a7e28ee7eb2c9e886869ffa94856"
+        "0x30875f0502d3a7e28ee7eb2c9e886869ffa94856",
+        "0x0e6d6c8d7604a7ef4948bbf421c4a031d9eeddb2"
       ]
     }
   },
@@ -1633,7 +1634,8 @@
       "name": "Wormhole Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x07b5bf20487bf1703dba0222b739fa4fc921fdd1"
+        "0x07b5bf20487bf1703dba0222b739fa4fc921fdd1",
+        "0x299b4f6066d231521d11fae8331fb1a4fe794f58"
       ]
     },
     "0x794a61358D6845594F94dc1DB02A252b5b4814aD": {
