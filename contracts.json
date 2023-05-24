@@ -1599,7 +1599,8 @@
       "name": "Safemoon Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xc047237b2120d397c38ee287baf94a28629cf80c"
+        "0xc047237b2120d397c38ee287baf94a28629cf80c",
+        "0x0ffebd81d78976260ca3d314159cc41d8c2eb6bc"
       ]
     },
     "0x977087422C008233615b572fBC3F209Ed300063a": {
@@ -2021,21 +2022,24 @@
       "name": "Exactly eWETH",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x1dcf89dfa88363ef33d49dd591b1ee5e84dd0f75"
+        "0x1dcf89dfa88363ef33d49dd591b1ee5e84dd0f75",
+        "0xbd9c70db872fdd9029ee5fa2a0ea30eabf7a1583"
       ]
     },
     "0x81C9A7B55A4df39A9B7B5F781ec0e53539694873": {
       "name": "Exactly eUSDC",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xf6da0e129fdc6e8fda49d8b2b33a6d4ba43c677b"
+        "0xf6da0e129fdc6e8fda49d8b2b33a6d4ba43c677b",
+        "0xaec84eac74981ab22905919cb282b78c7ca782df"
       ]
     },
     "0xBd1ba78A3976cAB420A9203E6ef14D18C2B2E031": {
       "name": "Exactly Rewards Controller",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x3a31a7e94b30bd92151b4711522f118902977c3c"
+        "0x3a31a7e94b30bd92151b4711522f118902977c3c",
+        "0xc91dc7a797cd5fbcf6f334c792a2b24eff55292c"
       ]
     },
     "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
