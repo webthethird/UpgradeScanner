@@ -20,6 +20,7 @@
       "name": "Compound Unitroller",
       "slot": 2,
       "implementations": [
+        "0x234b619b4f4e405665f7d94f2ce60c24256032b5",
         "0xbafe01ff935c7305907c33bf824352ee5979b526"
       ]
     },
@@ -27,6 +28,7 @@
       "name": "Compound Governance",
       "slot": 2,
       "implementations": [
+        "0x30065b703de5d473975a2db5bbb790a23fd6efbd",
         "0xef3b6e9e13706a8f01fe98fdcf66335dc5cfdeed"
       ]
     },
@@ -34,6 +36,7 @@
       "name": "Compound USDT",
       "slot": 18,
       "implementations": [
+        "0xa035b9e130f2b1aedc733eefb1c67ba4c503491f",
         "0x3363bae2fc44da742df13cd3ee94b6bb868ea376"
       ]
     },
@@ -41,6 +44,7 @@
       "name": "Compound UNI",
       "slot": 18,
       "implementations": [
+        "0xa035b9e130f2b1aedc733eefb1c67ba4c503491f",
         "0x3363bae2fc44da742df13cd3ee94b6bb868ea376"
       ]
     },
@@ -48,6 +52,7 @@
       "name": "Compound Collateral",
       "slot": 18,
       "implementations": [
+        "0xa035b9e130f2b1aedc733eefb1c67ba4c503491f",
         "0x3363bae2fc44da742df13cd3ee94b6bb868ea376"
       ]
     },
@@ -55,6 +60,7 @@
       "name": "Compound Wrapped BTC",
       "slot": 18,
       "implementations": [
+        "0xa035b9e130f2b1aedc733eefb1c67ba4c503491f",
         "0x3363bae2fc44da742df13cd3ee94b6bb868ea376"
       ]
     },
@@ -62,6 +68,7 @@
       "name": "USD Coin",
       "slot": "0x7050c9e0f4ca769c69bd3a8ef740bc37934f8e2c036e5a723fd8ee048ed3f8c3",
       "implementations": [
+        "0xb7277a6e95992041568d9391d09d0122023778a2",
         "0xa2327a938febf5fec13bacfb16ae10ecbc4cbdcf"
       ]
     },
@@ -69,6 +76,7 @@
       "name": "Arbitrum Sequencer Inbox",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xcc4e9e22acdf93192cf7e149d7563f6d660e9afc",
         "0xd03bfe2ce83632f4e618a97299cc91b1335bb2d9"
       ]
     },
@@ -76,6 +84,7 @@
       "name": "Arbitrum Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xfcea474c6bd5dd4edf5f37ee6bea5567f0b52a08",
         "0x1066cecc8880948fe55e427e94f1ff221d626591"
       ]
     },
@@ -83,6 +92,7 @@
       "name": "Arbitrum Nova Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd4254a4d136203dad7ae5ee05d6bd65b8d13157d",
         "0x1066cecc8880948fe55e427e94f1ff221d626591"
       ]
     },
@@ -90,6 +100,7 @@
       "name": "Arbitrum Delayed Inbox",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x931e1770bec7827841f3989bda43319adacd62db",
         "0x5aed5f8a1e3607476f1f81c3d8fe126deb0afe94"
       ]
     },
@@ -97,6 +108,7 @@
       "name": "Arbitrum Nova Delayed Inbox",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xb46e8571760da0cfaeb9c9689c449eb7dd7cb3e7",
         "0x1b2676d32e2f7430a564dd4560641f990dfe3d6a"
       ]
     },
@@ -104,6 +116,7 @@
       "name": "Arbitrum Rollup Proxy",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x75fc5465c4bad74b367ac917f7298ad66c308fb8",
         "0x72f193d0f305f532c87a4b9d0a2f407a3f4f585f"
       ]
     },
@@ -111,6 +124,7 @@
       "name": "Aztec: Connect",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x3f972e325cecd99a6be267fd36ceb46dca7c3f28",
         "0x8430be7b8fd28cc58ea70a25c9c7a624f26f5d09"
       ]
     },
@@ -132,6 +146,7 @@
       "name": "Polygon Bridge",
       "slot": "0xbaab7dbf64751104133af04abc7d9979f0fda3b059a322a8333f533d3f32bf7f",
       "implementations": [
+        "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5",
         "0x37d26dc2890b35924b40574bac10552794771997"
       ]
     },
@@ -139,6 +154,7 @@
       "name": "Polygon Ether Bridge",
       "slot": "0xbaab7dbf64751104133af04abc7d9979f0fda3b059a322a8333f533d3f32bf7f",
       "implementations": [
+        "0x499a865ac595e6167482d2bd5a224876bab85ab4",
         "0x54006763154c764da4af42a8c3cfc25ea29765d5"
       ]
     },
@@ -146,6 +162,7 @@
       "name": "Aave Lending Pool V1",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x5766067108e534419ce13f05899bc3e3f4344948",
         "0x2847a5d7ce69790cb40471d454feb21a0be1f2e3"
       ]
     },
@@ -153,6 +170,7 @@
       "name": "Aave Lending Pool V2",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x987115c38fd9fd2aa2c6f1718451d167c13a3186",
         "0xc6845a5c768bf8d7681249f8927877efda425baf"
       ]
     },
@@ -184,6 +202,7 @@
       "name": "zkSync",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x59a5e7c08be8356193cd9f92ca8ac95c42ab0bdd",
         "0x8e972b354e6933275513c355ee14d44a832ad2d9"
       ]
     },
@@ -228,6 +247,7 @@
       "name": "MetaMask DS Proxy",
       "slot": 0,
       "implementations": [
+        "0x34cfac646f301356faa8b21e94227e3583fe3f5f",
         "0xd9db270c1b5e3bd161e8c8503c55ceabee709552"
       ]
     },
@@ -266,6 +286,7 @@
       "name": "Immutable X Bridge",
       "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
       "implementations": [
+        "0x49401ddc4e0a858b5b4cf3d6de38393b7fac7378",
         "0xb8563ad5af1f79dd04937be8b572318c8e6f43ac"
       ]
     },
@@ -324,6 +345,7 @@
       "name": "Rhino.fi Bridge",
       "slot": "0x177667240aeeea7e35eabe3a35e18306f336219e1386f7710a6bf8783f761b24",
       "implementations": [
+        "0xb8563ad5af1f79dd04937be8b572318c8e6f43ac",
         "0x4edd62189732e9ff476aba880b48c29432a7ac9b"
       ]
     },
@@ -338,6 +360,7 @@
       "name": "Wormhole Portal Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xade06bc75dc1fc3fb7442e0cfb8ca544b23af789",
         "0x299b4f6066d231521d11fae8331fb1a4fe794f58"
       ]
     },
@@ -345,6 +368,7 @@
       "name": "Wormhole Ethereum Core Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x8c0041566e0bc27efe285a9e98d0b4217a46809c",
         "0x3c3d457f1522d3540ab3325aa5f1864e34cba9d0"
       ]
     },
@@ -352,6 +376,7 @@
       "name": "Wormhole NFT Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x29c502cf186012734c5f8861c4004c27c55578df",
         "0x3e41904b3766f4cceb145cc53d75feb61722a96c"
       ]
     },
@@ -375,6 +400,7 @@
       "name": "Rari Governance Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xf00d7dd883ca85cc39f89d077e563fbcafaf3117",
         "0xb528e8bb2dcb99cfdea4c28bf44925ef58ab1520"
       ]
     },
@@ -389,6 +415,7 @@
       "name": "Float Bank Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x0f8c4b7694579b1c9796f5dfe0ad45c20804b73a",
         "0x520f53ad040da6d453ac24301cc92c6a834efbf5"
       ]
     },
@@ -404,6 +431,7 @@
       "name": "Notional Finance nProxy",
       "getter": "getImplementation()",
       "implementations": [
+        "0xc2c594f0bb455637a93345a17f841dac750ccf54",
         "0x0158fc072ff5dde8f7b9e2d00e8782093db888db"
       ]
     },
@@ -411,6 +439,7 @@
       "name": "Notional Finance NOTE",
       "getter": "getImplementation()",
       "implementations": [
+        "0x90c3c405716b8ff965dc905c91eee82a0b41a4ff",
         "0x95df7e34403becd532f2be160cacda56f0bd6ba3"
       ]
     },
@@ -418,6 +447,7 @@
       "name": "Origin Story Staking Series",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x12e929eb29ed2307a28eb3e494062c58c32aaf7d",
         "0xe79850aacd3ad0b50b747837410ae5d7c38d5caa"
       ]
     },
@@ -432,6 +462,7 @@
       "name": "Origin Dollar OUSD",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xb248c975daeac47c4960ecbd10a79e486ebd1ca8",
         "0x33db8d52d65f75e4cdda1b02463760c9561a2aa1"
       ]
     },
@@ -439,6 +470,7 @@
       "name": "Origin Dollar Vault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x48cf14dea2f5dd31c57218877195913412d3278a",
         "0x997c35a0bf8e21404ae4379841e0603c957138c3"
       ]
     },
@@ -446,6 +478,7 @@
       "name": "Origin Dollar Aave Strategy",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xa050ebe34be464902f7e0f7f451f4b5253d57114",
         "0x4f424c6f066ae74784f3595a3a84923ad36d5471"
       ]
     },
@@ -453,6 +486,7 @@
       "name": "Origin Dollar Compound Strategy",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x47f3eb71b5507df5ab6ac7f8660ef282ab0e560f",
         "0xc697eab7b9f5c5ce2d35b9b69917f96001712ad5"
       ]
     },
@@ -460,6 +494,7 @@
       "name": "Origin Dollar Convex Strategy",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x16156a06bd1bd2d80134ea1ee7e5faebdbfa20aa",
         "0xee83f8ebb435373f6c231173995cc990697af1b8"
       ]
     },
@@ -474,6 +509,7 @@
       "name": "Origin Dollar Governance",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xed6e3808fce0c4a52dea8636933f666c6dea4d1d",
         "0x7dfafe7d547fc9083719d633b9c5f6f542c42c77"
       ]
     },
@@ -481,6 +517,7 @@
       "name": "Origin Governance Staking",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd313c06fa0e5d7286f28fa688e09248cb644295e",
         "0xe61110663334794aba03c349c621a075dc590a42"
       ]
     },
@@ -495,6 +532,7 @@
       "name": "Beanstalk Fertilizer Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xb151ea73053386b8d0367c401ee58a06e07ea680",
         "0x39cdaf9dc6057fd7ae81aaed64d7a062aaf452fd"
       ]
     },
@@ -502,6 +540,7 @@
       "name": "Beanstalk Root Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x94ac400fcb76547e7665badc28e1eaf9f7f43ca7",
         "0xbace64ce8b1611ec70f10d0ed2b203bfa4788b11"
       ]
     },
@@ -509,6 +548,7 @@
       "name": "Angle Protocol agEUR",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xb44c57a274bf5737873236f218b0c70c4aac521c",
         "0xe59d2c2cfe8459c53917d908177aa25fea5b919b"
       ]
     },
@@ -516,6 +556,7 @@
       "name": "Angle Protocol Pool Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xf381e8a36bc4aa7ebd9141c017765e6706e622d1",
         "0xb0187178095e751e817ddc2e8ebe3fb1f7e46842"
       ]
     },
@@ -523,13 +564,15 @@
       "name": "Angle Distributor",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x18fdeaf9ecc8f6c985d73fed10a12f4bf580c52f"
+        "0x18fdeaf9ecc8f6c985d73fed10a12f4bf580c52f",
+        "0xd9f22abbe5bf9c46413af053e34dbe987ff8418d"
       ]
     },
     "0xfc8f9eefC5FCe1D9dAcE2B0a11A1e184381787C4": {
       "name": "Angle Protocol Perpetual Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x07c89cc845d046aead377dddc61114aa9d920ac0",
         "0x9ca144c12a9dce3b72be31048cf54c79b42e02df"
       ]
     },
@@ -537,6 +580,7 @@
       "name": "Angle Protocol Stable Master",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
         "0x282dffb8d0215d7efb8d8c5ff90aed185d8850ab"
       ]
     },
@@ -544,6 +588,7 @@
       "name": "Angle Protocol veANGLE",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x7c24be3fc9a03bdaf87ffc15ec7860065b9da06d",
         "0x74024f9b3d075a5d339dd3b80e2e218ec71de0b9"
       ]
     },
@@ -551,7 +596,8 @@
       "name": "Angle Router",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x1b2ffdad478d8770ea0e085bdd4e31120736fcd7"
+        "0x1b2ffdad478d8770ea0e085bdd4e31120736fcd7",
+        "0xb3036ca920d7526cb1b95e60f4dba2ddac1830aa"
       ]
     },
     "0x41A65AAE5d1C8437288d5a29B4D049897572758E": {
@@ -572,6 +618,7 @@
       "name": "Angle Vault Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x874eb5967b57ef1605037812e781cc30a659fd1a",
         "0x7e54d1c83fad152b3681b81b7c0be691c6373f77"
       ]
     },
@@ -586,6 +633,7 @@
       "name": "Exactly eDAI",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x8eb54fc940ecdbe261357aae1225f0784d7e48db",
         "0x3c6bd2ffb9cb007e469cdd7b08d79102b5ae2b54"
       ]
     },
@@ -600,6 +648,7 @@
       "name": "Exactly eWBTC",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x004d1bf176c59890e11e487d1270d809df188c07",
         "0xf972f71332af1b7967ad21921b8ef4de84c94e72"
       ]
     },
@@ -607,6 +656,7 @@
       "name": "Exactly eUSDC",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x7a4141f41acbfe9b8eaecd8c48a8a9551b373d78",
         "0xa6b60fb117809b05263c126691c707fb19713825"
       ]
     },
@@ -624,6 +674,7 @@
       "name": "Ankr Staked ETH Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x89632e27427109d64ffe1cdd98027139477e020f",
         "0x3ed1dfbccf893b7d2d730ead3e5edbf1f8f95a48"
       ]
     },
@@ -631,6 +682,7 @@
       "name": "Ankr Reward Earning ETH",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x7ca86af6cb3dc9876705fe1579d281a80a9645cb",
         "0x5de57c3535e1f840ecb3e2a10c9955387685756d"
       ]
     },
@@ -638,6 +690,7 @@
       "name": "Ankr Polygon Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x9cc1e4e6bb2f2a9797e1314b7848f28e6e1a74f9",
         "0xcb6805e51ea42741d17d1c1f59e01fbe80aba389"
       ]
     },
@@ -645,6 +698,7 @@
       "name": "Ankr Staked MATIC Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x1352c426168895f3682becfa5821c9874a43e6ef",
         "0x50be7ae35c5bf838d060045f33f93449f9aff49c"
       ]
     },
@@ -652,6 +706,7 @@
       "name": "Morpho Compound",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xbbb011b923f382543a94e67e1d0c88d9763356e5",
         "0xe3d7a242614174ccf9f96bd479c42795d666fc81"
       ]
     },
@@ -659,6 +714,7 @@
       "name": "Morpho Aave",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x206a1609a484db5129ca118f138e5a8abb9c61e0",
         "0xfbc7693f114273739c74a3ff028c13769c49f2d0"
       ]
     },
@@ -666,6 +722,7 @@
       "name": "Morpho Rewards Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xf47963cc317ebe4b8ebcf30f6e144b7e7e5571b7",
         "0x581c3816589ad0de7f9c76bc242c97fe96c9f100"
       ]
     },
@@ -673,14 +730,16 @@
       "name": "Forta Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x7ff9f28d97e25230d6f7cc84e5289d5aa702dfce",
         "0x587969add789c13f64bcc34ff253bd9bfb78f38a"
       ]
     },
-    "0x4CA459DFC8b1cACa3763C954E889e6D644984385": {
+    "0x60a91E2B7A1568f0848f3D43353C453730082E46": {
       "name": "PoLido NFT",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x0000000000000000000000000000000000000000"
+        "0x4ca459dfc8b1caca3763c954e889e6d644984385",
+        "0x41912d95d040ecc7d715e5115173d37e4e7cb24e"
       ]
     },
     "0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599": {
@@ -691,11 +750,12 @@
         "0x6c25aebd494a9984a3d7c8cf395c8713e0c74d98"
       ]
     },
-    "0x1b6c71EdbdB8174420Cf9B368B38A1B52bfDd7F3": {
+    "0x216b8b78e0632138dc38907dd089aab601ed6edc": {
       "name": "Lido Node Operator Registry",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x0000000000000000000000000000000000000000"
+        "0x1b6c71EdbdB8174420Cf9B368B38A1B52bfDd7F3",
+        "0xdafa0332e904d5d1f2f1cdc2a3cad636a120f72d"
       ]
     },
     "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70": {
@@ -709,6 +769,7 @@
       "name": "Hyperlane Interchain Gas Paymaster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xab311c7dae251c1eb24c5a5409d47a415828d5e5",
         "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
       ]
     },
@@ -716,6 +777,7 @@
       "name": "Graph Staking",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xbd246bde50bb60e9c7aa49c38fe03e7d34ad2137",
         "0x0cf97e609937418ebc8c209404b947cbc914f599"
       ]
     },
@@ -730,6 +792,7 @@
       "name": "Graph Dispute Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x9c837ac7818d9d2653061579d479cf691056517f",
         "0x444c138bf2b151f28a713b0ee320240365a5bfc2"
       ]
     },
@@ -737,6 +800,7 @@
       "name": "Graph Rewards Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x320fe3af387a5fe4159b52da62246834ecc4b0c1",
         "0xe633b775790b338b8c5a9ff47ab7c5d0faf4cb7a"
       ]
     },
@@ -744,6 +808,7 @@
       "name": "Graph Curation",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6d2b24947680fce35d5c9dd6a4e32649f12c176c",
         "0x147a7758ea71d91d545407927b34dd77a5f7c21a"
       ]
     },
@@ -758,6 +823,7 @@
       "name": "Graph GNS",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x8f0031c8a936e3f78db1e0670135ccad27e5b689",
         "0xfdf6de9c5603d85e1dae3d00a776f43913c9b203"
       ]
     },
@@ -772,6 +838,7 @@
       "name": "Graph L1 Graph Token Gateway",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x2bc65e92b68560851c225459a31df6617448ec31",
         "0xd41ca6a1d034d178c196dfa916f22f7d1a1b8222"
       ]
     },
@@ -780,6 +847,7 @@
       "getter": "getAddress(bytes32)",
       "getter_arg": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x212207006e5ae344481fa34a6f4960eb0f302ff5",
         "0xed9938294acf9ee52d097133ca2caaff0c804f16"
       ]
     },
@@ -787,6 +855,7 @@
       "name": "Spool DAI Lower Risk Vault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xa308828904977bbceb91a9b0cb3db07636734fb7",
         "0x165ce764e2511bc5bbd1e239db4fdb63234c8ba3"
       ]
     },
@@ -808,6 +877,7 @@
       "name": "Spool Fast Withdraw",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x3f934a58517c91406c1d1d66aad45ea92f2f91bc",
         "0x5fa90dda9e5bce3ce4c814dfc9a16d6a849999eb"
       ]
     },
@@ -815,6 +885,7 @@
       "name": "Spool Fee Handler",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe605f2e77c1d9d3b9766ff3c764e301175009f75",
         "0x71ebff1106cd316e812878f04da36262edfdaefb"
       ]
     },
@@ -836,6 +907,7 @@
       "name": "Spool voSPOOL Rewards",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x32a1f51cd5bdb93da997312c7c47870db7ee7339",
         "0x79b91c72d13c47afbb8167f5c2f490313a8924cd"
       ]
     },
@@ -850,6 +922,7 @@
       "name": "Nomad Bridge Router",
       "slot": 0,
       "implementations": [
+        "0x15fda9f60310d09fea54e3c99d1197dff5107248",
         "0xe0db61ac718f502b485dec66d013afbbe0b52f84"
       ]
     },
@@ -857,6 +930,7 @@
       "name": "Nomad Token Registry",
       "slot": 0,
       "implementations": [
+        "0xc1fae48ae1225fce8698503d5bb1378db5ce14f6",
         "0xfd956b862b67c476c9a55d016cffd06ea96fac82"
       ]
     },
@@ -864,6 +938,7 @@
       "name": "Nomad Governance Router",
       "slot": 0,
       "implementations": [
+        "0xfbea6d67ddd90e1f726c2622c6c42b016fdad5a7",
         "0xe9f0a0a787ceea82f1c8fe7a783826ebd181e707"
       ]
     },
@@ -871,6 +946,7 @@
       "name": "Nomad Bridge Token",
       "slot": 0,
       "implementations": [
+        "0x4dbc3d23c13ebd7d1b26009a56c1c30b9d8dfe51",
         "0x4aa8699cdaa97e72837093f227f40d122ba79611"
       ]
     },
@@ -878,6 +954,7 @@
       "name": "Nomad Home",
       "slot": 0,
       "implementations": [
+        "0x1f98fdc4d8d0806eb3902d57df7a2183b333b80c",
         "0xf3bb7e2d4b26ae2c3eac41171840c227f457ea06"
       ]
     },
@@ -885,6 +962,7 @@
       "name": "Nomad Replica",
       "slot": 0,
       "implementations": [
+        "0xb92336759618f55bd0f8313bd843604592e27bd8",
         "0x7f221a1850c12b57fed1f0831dd25399a13b68c2"
       ]
     },
@@ -892,6 +970,7 @@
       "name": "Stader MaticX",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x648cf74330da142d4e774b14d6c79072c8cc8701",
         "0x5a78f4bd60c92fcbbf1c941bc1136491d2896b35"
       ]
     },
@@ -899,6 +978,7 @@
       "name": "Stader Validator Registry",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x1c81679f49c7f2894f56d57d1355b7af04690580",
         "0x0a7f554abfbd710d9cdfb7cf88217a91aca7457d"
       ]
     },
@@ -906,6 +986,7 @@
       "name": "BendDAO BNFT Registry",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd1cc422ebd5b9f381e03471b46fc9ea371435319",
         "0xe9cd64fa21b589d8e94a70300cfa5e1652a0e951"
       ]
     },
@@ -913,6 +994,7 @@
       "name": "BendDAO Bound WPUNKS",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe1772456d971c8e873a3f5408155c22b6b447249",
         "0x4143e1127c04087aac4899555c8b02566b165e94"
       ]
     },
@@ -920,6 +1002,7 @@
       "name": "BendDAO Collector",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x8b4117e91a6f6a810651afae788ec044f13a06a5",
         "0x67a05fae0b411588e4fba0d28c6bb33588769501"
       ]
     },
@@ -927,6 +1010,7 @@
       "name": "BendDAO NFT Oracle",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x7d9eb80519a9f0951b4ccf9aa7a6d78542b7fac8",
         "0x1bfc8d3d6704d63a9901189cd6dfefd0993a1b25"
       ]
     },
@@ -941,6 +1025,7 @@
       "name": "BendDAO Lend Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe240cf264866c2b69fd72cde2144ae149f82219b",
         "0x290afb1f68131d39de177199b57fb613a31066a4"
       ]
     },
@@ -948,6 +1033,7 @@
       "name": "BendDAO Lend Pool Configurator",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x29af464979a9aae9da65b27692556a44eb48e26e",
         "0xb72d8b46aadd08cceafd52848201384b98849766"
       ]
     },
@@ -955,6 +1041,7 @@
       "name": "BendDAO Lend Pool Loan",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x06e2c6f001362df2e6d3153b7a29487b6cbdf5c0",
         "0x71bf09450de6327aba596d921a549b71d0d8e990"
       ]
     },
@@ -969,6 +1056,7 @@
       "name": "BendDAO bendDebtWETH",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xce7cb1d2748bdf4ef38b279d9a6b98817c92a53a",
         "0x3f1735b33a0ed1b5c00230f3c162d6b23ca60c3c"
       ]
     },
@@ -976,6 +1064,7 @@
       "name": "BendDAO WETH Gateway",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x1eab020442ecb5dd2b1c296ce6ebc41ec328ec0f",
         "0xe79575692ed7092dd6c5cbbc7203d8df48494c33"
       ]
     },
@@ -983,6 +1072,7 @@
       "name": "BendDAO Punk Gateway",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xa580769e3e973346730aac0dcef418222d4aaf1f",
         "0x70a987a0e1ea971728a1f872eacd764edae190b1"
       ]
     },
@@ -997,6 +1087,7 @@
       "name": "BendDAO Merkle Distributor",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6d8138ab8458bc420ac2dc078c59e8bd4defcaa6",
         "0x7529834a5974e2d5fff3d0f0591e9a5ca2ca1619"
       ]
     },
@@ -1040,6 +1131,7 @@
       "name": "BendDAO OpenSea Adaptor",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe69d34eb24a4c3cba89907bc83f78a5a9fc9442f",
         "0xdc8f0910d5b783cc038c6f9c94325766906105f6"
       ]
     },
@@ -1054,6 +1146,7 @@
       "name": "BendDAO Stake Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd15870919d5897c802893671a591d68d05da390c",
         "0x9b399900d118defc544edc5d30db6da11ca549af"
       ]
     },
@@ -1096,6 +1189,7 @@
       "name": "Perennial Collateral",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe547a6d15e5d28437dd1fef67a3545ade6c53aa3",
         "0x32f3ab7b3c5bba0738b72fdb83fce6bb1a1a943c"
       ]
     },
@@ -1103,6 +1197,7 @@
       "name": "Perennial Controller",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x5fa881826ad000d010977645450292701bc2f56d",
         "0x1593318424df66128cb7d0c5574b1283c3a74c3d"
       ]
     },
@@ -1110,6 +1205,7 @@
       "name": "Perennial Multi Invoker",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x19890cf5c9a0b8d2f71eb71347d126b6f7d78b76",
         "0x83597765904e28e3a360c17cb1f5635cbcbfdd63"
       ]
     },
@@ -1117,6 +1213,7 @@
       "name": "Perennial Incentivizer",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x0d49c416103cbd276d9c3cd96710db264e3a0c27",
         "0xa5492624f46f7ef346bfc46a0fb364eba3b1f525"
       ]
     },
@@ -1124,6 +1221,7 @@
       "name": "Decentraland LAND",
       "getter": "currentContract()",
       "implementations": [
+        "0xa57e126b341b18c262ad25b86bb4f65b5e2ade45",
         "0x554bb6488ba955377359bed16b84ed0822679cdc"
       ]
     },
@@ -1152,6 +1250,7 @@
       "name": "Ondo OUSG",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xdb77d0d3d9bf850e38282ed8b5fb410d02e75d2d",
         "0x1ceb44b6e515abf009e0ccb6ddafd723886cf3ff"
       ]
     },
@@ -1159,6 +1258,7 @@
       "name": "Iron Bank Unitroller",
       "slot": 2,
       "implementations": [
+        "0x1d073cf59ae0c169cbc58b6fdd518822ae89173a",
         "0xcb9ab119be270f58d40e3d57d1ecc82bd479d59f"
       ]
     },
@@ -1166,7 +1266,126 @@
       "name": "Iron Bank EUR",
       "slot": 18,
       "implementations": [
+        "0x432979a3f808b6cfca2d393206378ea5b39e33e5",
         "0x7e8844ea4c211a69ad9308ba0b6cdb3ea0bb2b05"
+      ]
+    },
+    "0x397c315d64d74d82a731d656f9c4d586d200f90a": {
+      "name": "Alkemi Earn",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x75031d152d6c0e44df5eeb8f3c08d48f59991a50",
+        "0x82c19bdd07f9ca911ab8bc7bd5faf092736cfa64"
+      ]
+    },
+    "0x544c42fbb96b39b21df61cf322b5edc285ee7429": {
+      "name": "InsurAce INSUR",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x1452b535ebeb212026f77511147dfdc821d91cbe",
+        "0x61ed1411c3f8f0bd0d7058544cc7035e9d4fabbc"
+      ]
+    },
+    "0xdf8bec949367b677b7c951219ed66035ddc73d3f": {
+      "name": "InsurAce LPTokenETH",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x845e8a027ec3e132ac5292f28283d17ef6d8184f"
+      ]
+    },
+    "0x136d841d4bece3fc0e4debb94356d8b6b4b93209": {
+      "name": "InsurAce Stakers Pool V2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa237a4e37c90e87c41b534a03ccd8daaf85bd14e",
+        "0xa03d480cd2e10ad36ed098898357dbe4c349fb02"
+      ]
+    },
+    "0x7d8c3f38c8545a770d57c8043d54e5715b1c584e": {
+      "name": "InsurAce Staking Controller V2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x87c07b48c8f656e43542e93009495c4daab24e5e",
+        "0x84f24b1e730d04962f44a14ffd2accd3f7c5f885"
+      ]
+    },
+    "0x88ef6f235a4790292068646e79ee563339c796a0": {
+      "name": "InsurAce Cover",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xb5bcae6425a5ce0992181a6bb19992ae82bddafb",
+        "0xe70ff248cc0820c17ee6602719ff53f58f3bdb97"
+      ]
+    },
+    "0xe2f2a5c287993345a840db3b0845fbc70f5935a5": {
+      "name": "mStable USD",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe0d0d052d5b1082e52c6b8422acd23415c3df1c4",
+        "0x15b2838cd28cc353afbe59385db3f366d8945aee"
+      ]
+    },
+    "0x30647a72dc82d7fbb1123ea74716ab8a317eac19": {
+      "name": "mStable Interest Bearing USD",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe056181e4dc08965aec83fa691cf96c68ab0ec0d",
+        "0x690e382bad9016f688cfc18af306e1fdd6cb28e8"
+      ]
+    },
+    "0x945facb997494cc2570096c74b5f66a3507330a1": {
+      "name": "mStable BTC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x69ad1387da6b2ab2ea4bf2bee68246bc042b587f",
+        "0x55c6fe0c38af2a59ed945bb84d6898ebce63743c"
+      ]
+    },
+    "0x17d8cbb6bce8cee970a4027d1198f6700a7a6c24": {
+      "name": "mStable Interest Bearing BTC",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x95a62dfc1bbf11179905b40ca072e8f60aa962e4",
+        "0x9c71192da3cff149eace50b6c94bfe69d7a6e694"
+      ]
+    },
+    "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2": {
+      "name": "StakeWise SWISE",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xa28c2d79f0c5b78cec699dab0303008179815396"
+      ]
+    },
+    "0xFe2e637202056d30016725477c5da089Ab0A043A": {
+      "name": "StakeWise Staked ETH2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x6a8a1716a44f700af56ea52d44b916a50333a369",
+        "0x41bcac23e4db058d8d7aabe2fccdae5f01fe647a"
+      ]
+    },
+    "0x20bc832ca081b91433ff6c17f85701b6e92486c5": {
+      "name": "StakeWise Reward ETH2",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x35cb741e55330b4a0e1ae011417e6715e4bca0b1",
+        "0x04f439c341221da7ae086b6f585e4cd7a7e54622"
+      ]
+    },
+    "0xc874b064f465bdd6411d45734b56fac750cda29a": {
+      "name": "StakeWise ETH2 Staking",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0xe68e649862f7036094f1e4ed5d69a738acde666f",
+        "0x61975c09207c5dfe794b0a652c8caf8458159aae"
+      ]
+    },
+    "0x4aa42145aa6ebf72e164c9bbc74fbd3788045016": {
+      "name": "Gnosis Chain xDAI Bridge",
+      "getter": "implementation()",
+      "implementations": [
+        "0x7e7669bdff02f2ee75b68b91fb81c2b38f9228c2",
+        "0xeee4f8db4410bebd74a76cb711d096c5e66d0473"
       ]
     }
   },
@@ -1182,6 +1401,7 @@
       "name": "Orbit Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xac6b4b573df32f31e933c2c8a58d5e334690e0ee",
         "0xc54d7abfddc81d659d799f023122c73342802bf7"
       ]
     },
@@ -1196,6 +1416,7 @@
       "name": "SecondLive NFT",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x79728b72841aa4fc569566fd3bcf8f4feca9f288",
         "0x30c876c130b116daceda5c1b7d11c0d51c263519"
       ]
     },
@@ -1203,6 +1424,7 @@
       "name": "SecondLive 721",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x9444857951b88160f953de369d4083318463480a",
         "0xd32491e61404b0cf6ca392f552ceab932e16afc2"
       ]
     },
@@ -1217,6 +1439,7 @@
       "name": "Mobox Main Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xf18e6d807a5df8c97257a71c4ad49094966663fa",
         "0x596b4d1d1205ba3b8b19f883db7ac0de540c25a9"
       ]
     },
@@ -1224,6 +1447,7 @@
       "name": "Venus Unitroller",
       "slot": 2,
       "implementations": [
+        "0xf2721703d5429bec86bd0ed86519e0859dd88209",
         "0x909dd16b24cef96c7be13065a9a0eaf8a126ffa5"
       ]
     },
@@ -1231,6 +1455,7 @@
       "name": "Venus USDC",
       "slot": 18,
       "implementations": [
+        "0x13f816511384d3534783241ddb5751c4b7a7e148",
         "0x10fb44c481f87cb4f3ce8de11ffd16e00ec5b670"
       ]
     },
@@ -1238,6 +1463,7 @@
       "name": "Venus USDT",
       "slot": 18,
       "implementations": [
+        "0x13f816511384d3534783241ddb5751c4b7a7e148",
         "0x10fb44c481f87cb4f3ce8de11ffd16e00ec5b670"
       ]
     },
@@ -1245,6 +1471,7 @@
       "name": "Venus BUSD",
       "slot": 18,
       "implementations": [
+        "0x13f816511384d3534783241ddb5751c4b7a7e148",
         "0x10fb44c481f87cb4f3ce8de11ffd16e00ec5b670"
       ]
     },
@@ -1252,6 +1479,7 @@
       "name": "Venus SXP",
       "slot": 18,
       "implementations": [
+        "0xf9f48874050264664bf3d383c7289a0a5bd98896",
         "0x13f816511384d3534783241ddb5751c4b7a7e148"
       ]
     },
@@ -1259,6 +1487,7 @@
       "name": "Venus BTC",
       "slot": 18,
       "implementations": [
+        "0xfa990cafd2a3c971149c71969bf7c8613f54af05",
         "0x10fb44c481f87cb4f3ce8de11ffd16e00ec5b670"
       ]
     },
@@ -1266,6 +1495,7 @@
       "name": "Venus ETH",
       "slot": 18,
       "implementations": [
+        "0xfa990cafd2a3c971149c71969bf7c8613f54af05",
         "0x10fb44c481f87cb4f3ce8de11ffd16e00ec5b670"
       ]
     },
@@ -1273,6 +1503,7 @@
       "name": "ApolloX DAO Voting",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x980db9c5c09771b17ecf8dd3f5c3e4fbb8d3633d",
         "0xc090837aab00734f4459c82dac55896ef3a851aa"
       ]
     },
@@ -1287,6 +1518,7 @@
       "name": "belt.fi BNB",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe4342c1f88290f387f0db0c7a270e3520402f19e",
         "0x55c82b38eca698e7d589f658bdd5db4939a5f5de"
       ]
     },
@@ -1294,6 +1526,7 @@
       "name": "belt.fi ETH",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe4342c1f88290f387f0db0c7a270e3520402f19e",
         "0x55c82b38eca698e7d589f658bdd5db4939a5f5de"
       ]
     },
@@ -1301,6 +1534,7 @@
       "name": "belt.fi BTC",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe4342c1f88290f387f0db0c7a270e3520402f19e",
         "0x55c82b38eca698e7d589f658bdd5db4939a5f5de"
       ]
     },
@@ -1308,6 +1542,7 @@
       "name": "Wombat Exchange Main Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x5d2390b2b7db5058c45401b84da3018538524572",
         "0x2c3c340233338d875637304b06f4f6faf9bebd20"
       ]
     },
@@ -1315,6 +1550,7 @@
       "name": "Wombat Exchange MasterWombatV3",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x0020a8890e723cd94660a5404c4bccbb91680db6",
         "0x55e4ac63b9275ba52223980e603f9eeb3157fe7b"
       ]
     },
@@ -1322,6 +1558,7 @@
       "name": "Wombat Waddle (veWOM)",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x4c2542cb483e54632c36860943f01717648bb1b4",
         "0x3fef8c58a490a116ee6c666de4c01bd55cd75d00"
       ]
     },
@@ -1336,6 +1573,7 @@
       "name": "Wormhole Core Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x736d2a394f7810c17b3c6fed017d5bc7d60c077d",
         "0xb8c99a5812159a412c5bd5823d35e32e61ef6135"
       ]
     },
@@ -1343,6 +1581,7 @@
       "name": "Wormhole Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x3f1a6729bb27350748f0a0bd85ca641a100bf0a1",
         "0x666ff2211b2228cc629d8969f9c857c295db3840"
       ]
     },
@@ -1350,6 +1589,7 @@
       "name": "Wormhole NFT Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x516f156987fb1c7763b31ea0e8a07d23077f7e04",
         "0x67965a59631e8eacda48d26fae769e516fa0bcfc"
       ]
     },
@@ -1357,6 +1597,7 @@
       "name": "dForce BNB",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x40380a73f673f39e56d4430d42df54ade0e50879",
         "0x2a29ecb29781214ec774544023c8fc19102786b8"
       ]
     },
@@ -1388,6 +1629,7 @@
       "name": "Router Protocol Vote Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x2b234504a13034e1400079b2e9832727cae0a7bf",
         "0xb943c6f68e2c83c6b5413731b11e2c5ac51813e3"
       ]
     },
@@ -1395,6 +1637,7 @@
       "name": "Router Protocol BSC Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe3b40f81dc9c42a7da9eb19599dddca1c0c01277",
         "0xfc89330c1cc2a7e4e8e31c3d5ec61bb520650730"
       ]
     },
@@ -1402,6 +1645,7 @@
       "name": "Router Protocol ERC20 Handler",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x15df24ba9b51f9d12c9b4303fd1d87250f1f3ed4",
         "0x7eb70dc00d401de4457fef0dcfc9e3e9ddb15b0d"
       ]
     },
@@ -1416,6 +1660,7 @@
       "name": "Router Protocol Handler Reserve",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xcd478fec76c89a66c71f680df294223cb7442880",
         "0xb10c888b39bdd7a098f64b2a34b2b21b2a2a3f18"
       ]
     },
@@ -1430,6 +1675,7 @@
       "name": "Hyperlane Interchain Gas Paymaster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xab311c7dae251c1eb24c5a5409d47a415828d5e5",
         "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
       ]
     },
@@ -1438,6 +1684,7 @@
       "getter": "getAddress(bytes32)",
       "getter_arg": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x59c38b3a349bcf7e46b024cddfb4778229609c28",
         "0x39edb9188032d87657e8683724c11b1486cc4cb6"
       ]
     },
@@ -1445,6 +1692,7 @@
       "name": "Stader Stake Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x585088e797c6b0f0ab443f3502222c1c45cbc5b2",
         "0xbb394206d8f19942687ef9cdb162a785c24aae0e"
       ]
     },
@@ -1459,6 +1707,7 @@
       "name": "Quoll Finance QUO",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x3bb551605ee030c19e6e57dca54a18e3ceee0177",
         "0x79329b67c6207f15f8772b89e7c8a9b7536ef632"
       ]
     },
@@ -1466,6 +1715,7 @@
       "name": "Quoll Finance QUO Reward Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6f4bce6d86f454399a9f113fa79a01e07a71ef05",
         "0x2eb6663663a4057dccd4961ee9b724761302ef10"
       ]
     },
@@ -1473,6 +1723,7 @@
       "name": "Quoll Finance Master Chef",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x2912cb4badb2988eb79f6bda55e9bd47f6e2e167",
         "0xa33ca6726b238e64bff804f8bd5e1525a02a1802"
       ]
     },
@@ -1480,6 +1731,7 @@
       "name": "Quoll Finance qWOM",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x3d5bf602c88c9b473b7deeeeddfc9e2681065ef4",
         "0xa510b3dd247b6f9a07610809bddd65e055836591"
       ]
     },
@@ -1487,6 +1739,7 @@
       "name": "Quoll Finance Wombat Voter Proxy",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xeec9675ac441d52c7ab8f1bd0d69bd85a9a3c69b",
         "0x9f30d83ba37ccb276b5ec30ab9373c75ae88051e"
       ]
     },
@@ -1494,6 +1747,7 @@
       "name": "Quoll Finance Wombat Booster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd9814534748c9ed1c763a099f1ba52e0ecaa7b79",
         "0x0a297dd0b32797d9b04673dc4b49278a3cf82a32"
       ]
     },
@@ -1501,6 +1755,7 @@
       "name": "Quoll Finance WomDepositor",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6e82cf85119ebe90bb68135a1e0685e3a0d415f7",
         "0xa54b061ee12ec8319ed4a9458a787f1f268d3a96"
       ]
     },
@@ -1508,6 +1763,7 @@
       "name": "Quoll Finance qWOM Reward Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xdcf472698fcc252915a5c280ff9c9787ed595e9d",
         "0x95196ee6f02d64d259a0fb291a9f238a7cfa55d9"
       ]
     },
@@ -1515,6 +1771,7 @@
       "name": "Quoll Finance vlQUO",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xc06ff90b521b49e0f0d01d103682a6843d362ec0",
         "0xe08d8f553ad90f351a41de61dc472252ce248aa7"
       ]
     },
@@ -1522,6 +1779,7 @@
       "name": "Quoll Finance QUO Zap",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x2ebb5511ca04126795b0953ee7733439165f06f3",
         "0x7a5c0d592e00da8fb38d1e4c4fe06cdd98a73780"
       ]
     },
@@ -1529,6 +1787,7 @@
       "name": "Helio HAY Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x545cf6cd8eb8a79a8a742a192dcf48fcbe0348fb",
         "0x3ff313e7aabac6420e335cf8e466acda73a74276"
       ]
     },
@@ -1536,6 +1795,7 @@
       "name": "Helio Interaction",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x99083dff05afc993c8d1368625681180f8b8d092",
         "0xa188018e8d2c00ac1da71ee34d00e46506040eb3"
       ]
     },
@@ -1564,6 +1824,7 @@
       "name": "Helio CeVault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x76ab5949eebbbfb18bdace6a360d443d1ffa2db6",
         "0x634a0d1d9e6b9f6e24c973cfed879437b785f5bc"
       ]
     },
@@ -1571,13 +1832,15 @@
       "name": "Helio Ceros Router",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x363e21ec23bba74bd3831079e214d93a1ce304cd"
+        "0x363e21ec23bba74bd3831079e214d93a1ce304cd",
+        "0x33b58d0144458b2db7b7bc7be432547dc65bfae3"
       ]
     },
     "0xa835F890Fcde7679e7F7711aBfd515d2A267Ed0B": {
       "name": "Helio Provider",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x106cda74567d88fb1adea3283ff4b97e2a77f6a6",
         "0xeb03ce6dc94600e9f4d90698c2ce6708052d2f7b"
       ]
     },
@@ -1600,7 +1863,8 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0xc047237b2120d397c38ee287baf94a28629cf80c",
-        "0x0ffebd81d78976260ca3d314159cc41d8c2eb6bc"
+        "0x0ffebd81d78976260ca3d314159cc41d8c2eb6bc",
+        "0x00790bf8b7fad21ce3a101cb39ba6fb89578a146"
       ]
     },
     "0x977087422C008233615b572fBC3F209Ed300063a": {
@@ -1673,6 +1937,7 @@
       "name": "Radiant Pool Helper",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x372f376ef7304616f5aa212da2788e6251676a1b",
         "0x0cc8be53df3a5d2f49379f6d8f1356b765c908ca"
       ]
     },
@@ -1694,6 +1959,7 @@
       "name": "Hundred Finance Unitroller",
       "slot": 2,
       "implementations": [
+        "0xb426c1b7fabea9ea6a273e8427040568a8c7df13",
         "0xe8a3327f353863292dcc972b160fe55dbf123fca"
       ]
     },
@@ -1715,6 +1981,7 @@
       "name": "Hyperlane Interchain Gas Paymaster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xab311c7dae251c1eb24c5a5409d47a415828d5e5",
         "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
       ]
     },
@@ -1743,6 +2010,7 @@
       "name": "Graph Rewards Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x225ab818cd003bb17728768e6a48c160d89c64d0",
         "0xa301deabdadf9dbd01932aa13739c9620faa54fd"
       ]
     },
@@ -1799,6 +2067,7 @@
       "name": "Perennial Multi Invoker",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x2b99224dad73d7d84b7c74e9161bbd0d01a2a15b",
         "0x18d1e8c75d7d3b91307bc08d85eb746a418dd2d3"
       ]
     },
@@ -1813,7 +2082,8 @@
       "name": "Perennial Balanced Vault Alpha",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x68f680607a5c32cab860f84f5f5e9f9497f66535"
+        "0x68f680607a5c32cab860f84f5f5e9f9497f66535",
+        "0xbd454fbad8f0e9fae5c830d0cc1e698444445773"
       ]
     },
     "0x1960628db367281B1a186dD5B80B5dd6978F016F": {
@@ -1834,6 +2104,7 @@
       "name": "Sentiment Account Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x23ad9605b6e7a02ab9f73068f5e68715f21c2b6b",
         "0xb08501a3020ae096c2edd6495d0957b615d8c093"
       ]
     },
@@ -1875,6 +2146,7 @@
       "name": "Wormhole Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x5362afc9117a0b1c901dc6c682a73668180c4a87",
         "0x6c780b35bcb862912e20384a9373426004e4cb92"
       ]
     },
@@ -1882,6 +2154,7 @@
       "name": "Wormhole NFT Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x516f156987fb1c7763b31ea0e8a07d23077f7e04",
         "0x39ac31949dd65e6ed5154442c7e7b0a75c451931"
       ]
     },
@@ -1912,6 +2185,7 @@
       "name": "Hyperlane Interchain Gas Paymaster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xab311c7dae251c1eb24c5a5409d47a415828d5e5",
         "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
       ]
     },
@@ -1920,6 +2194,7 @@
       "getter": "getAddress(bytes32)",
       "getter_arg": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x868e6cf4c9e07ac8cacaa8d3471ada6996d1d417",
         "0x47e1f636a2c374e8935106593b4fbe0d244df9b7"
       ]
     },
@@ -1927,6 +2202,7 @@
       "name": "Benqi Finance Unitroller",
       "slot": 2,
       "implementations": [
+        "0xb17e06929dc3b39ba3f71882b0f5d16a183bbb2f",
         "0xd8e426c61b0fbbda06e9f603263abea09d717dbd"
       ]
     },
@@ -1941,6 +2217,7 @@
       "name": "Benqi Finance Staked AVAX",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x0ebc3e27f57c11041082fae1dda4b471e9a4f58e",
         "0x0ce7f620eb645a4fbf688a1c1937bc6cb0cbdd29"
       ]
     },
@@ -1948,6 +2225,7 @@
       "name": "Benqi Finance PglStakingContract",
       "getter": "implementation()",
       "implementations": [
+        "0x21e622f72b6927fec426d539740980188fd2b56a",
         "0xe59988d947f80b59ff1de7bd413e5e5517906cb2"
       ]
     },
@@ -1964,6 +2242,7 @@
       "name": "OpenOcean Exchange",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6dd434082eab5cd134b33719ec1ff05fe985b97b",
         "0x04954f93d189c9afb6e09c47a55d9a124537ab08"
       ]
     },
@@ -1978,6 +2257,7 @@
       "name": "Wormhole Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xfbc2f62b6a366a177d44706f04b74ae2d60bd556",
         "0x6cbdd436210e19621efaa15db5c730038166b2f3"
       ]
     },
@@ -2053,6 +2333,7 @@
       "name": "Hyperlane Interchain Gas Paymaster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xab311c7dae251c1eb24c5a5409d47a415828d5e5",
         "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
       ]
     },
@@ -2076,6 +2357,7 @@
       "name": "Perpetual Base Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x64689ae2b2aafa02e3e687bb5dd09ac67db27792",
         "0x46453f42f41b52fd9423ce54b7572efb45f2f1cf"
       ]
     },
@@ -2091,6 +2373,7 @@
       "name": "Perpetual Insurance Fund",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x099b59d7ac07b765e3de0ee16dfce846a0baa61b",
         "0x210863729508500ae4b4f6cdcd0c083ae6dd8b94"
       ]
     },
@@ -2114,6 +2397,7 @@
       "name": "Perpetual Quote Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x24f9c3078c3c832173de30e2ea71e386a59f7e91",
         "0x17793262e3625b1a57fb325b5a1f79b05de30b14"
       ]
     },
@@ -2121,6 +2405,7 @@
       "name": "Perpetual Collateral Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6164a4f3bbd87a0a11cc5f14278b8ab260217599",
         "0x840048281d438bc834fa5c8a3d0ba7822553bc88"
       ]
     },
@@ -2144,13 +2429,15 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x02ec0d78a6e981dde14efef0792774fd236645a7",
-        "0x8ea0e20e9bb736e66f6aefc4078fc339d058f1a3"
+        "0x8ea0e20e9bb736e66f6aefc4078fc339d058f1a3",
+        "0x9dd013f9083741bc70c7ce32c2d6ab022a3d7ff7"
       ]
     },
     "0x41C8759533bDD05D73f8EE8b876cFE6600De288D": {
       "name": "Perpetual Limit Order Reward Vault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x371ac283b53f19a24598fc7e0b5c6406ae5e0927",
         "0x0315b83b137ef6d1bbc6a29ae5c524666e030c75"
       ]
     },
@@ -2188,6 +2475,7 @@
       "name": "Wormhole Token Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x9002933919aa83c38d01bdfbd788a9dff42f3880",
         "0x07b5bf20487bf1703dba0222b739fa4fc921fdd1"
       ]
     },
@@ -2195,6 +2483,7 @@
       "name": "Wormhole NFT Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x516f156987fb1c7763b31ea0e8a07d23077f7e04",
         "0x5c7c40c4b976aee76d829fbc922720a9621536ef"
       ]
     },
@@ -2225,6 +2514,7 @@
       "name": "Toucan BCT Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe24d5aea221cb6fad017ae4aaea4d7686bf02a55",
         "0xa81f17ead463b0c5b4cbd00386b99469f6fcc20a"
       ]
     },
@@ -2232,6 +2522,7 @@
       "name": "Toucan Carbon Offset Batches",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xaebd117b013a1d5850ab207efcc59f03937b6048",
         "0xa90daf1975ba13c26f63976e0fd73a21f966ee0d"
       ]
     },
@@ -2239,6 +2530,7 @@
       "name": "Toucan Carbon Project Vintages",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xcbe338837261475f088831061216ade09c587dcd",
         "0x3a6ec4d6864b58eb7a513a2862614c7728adbdf4"
       ]
     },
@@ -2246,6 +2538,7 @@
       "name": "Toucan Carbon Projects",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xdf789e510c147287038816fb9fab46c1ff52f96c",
         "0x4c2a0f160f04caded6e03fe03c769574d346ef20"
       ]
     },
@@ -2253,6 +2546,7 @@
       "name": "Toucan Carbon Offsets Factory",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x273f7d7e84d3cd5f54c3aff28647e8e340189e4c",
         "0x8710ff06d55443dac7b31b635f212ba299ed18e6"
       ]
     },
@@ -2260,6 +2554,7 @@
       "name": "Toucan Cross Chain Messenger",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x882adea1a3b875fc776cac94541ccb1275c38654",
         "0x9def34b1ace8c135029aec19f9744762a572b2c3"
       ]
     },
@@ -2267,6 +2562,7 @@
       "name": "InsurAce Stakers Pool V2",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x493f3529c73b9a88f968ca078c29c805131cef85",
         "0x8d3eb7a51a326f975bf13db1b52180874a0d16ca"
       ]
     },
@@ -2274,6 +2570,7 @@
       "name": "Biconomy Liquidity Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x6c0cbac5337cf577452e99a18320fc5656bd61e7",
         "0x256415a1f9468e5405abdafd9b76c4f24451d7e7"
       ]
     },
@@ -2281,6 +2578,7 @@
       "name": "Stader maticX Child Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x5e2b6ce754689fcb1aade19464e56eb3345b36f1",
         "0xd6f5781b49f774aebdea7ab52671b0d72d36b6dd"
       ]
     },
@@ -2288,6 +2586,7 @@
       "name": "Superfluid MATICx",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xc304cef3bb75b2638633aec178df09fd058a0f9c",
         "0x5ee041478e482ff756a783b8115b06bcecc0fc93"
       ]
     },
@@ -2302,6 +2601,7 @@
       "name": "TETU Profit Share Token",
       "getter": "implementation()",
       "implementations": [
+        "0xce28ab4fa0260260a024a0823aefed97fb9fdba3",
         "0x9ed23756ecd0b9012e4d7ee807da0e6ec94a1a70"
       ]
     },
@@ -2309,6 +2609,7 @@
       "name": "TETU Controller",
       "getter": "implementation()",
       "implementations": [
+        "0x87da368be6c0b8f6d4a33faf12d1dd96c11709be",
         "0x00f17fc1eb1a58afdda707a5dde4344c124f7f8f"
       ]
     },
@@ -2316,6 +2617,7 @@
       "name": "TETU Announcer",
       "getter": "implementation()",
       "implementations": [
+        "0xa43ea51b3251f96bb48c48567a93b15e7e4b99f6",
         "0x12e4a470ed725a0450d543c41006da678809b2b8"
       ]
     },
@@ -2323,6 +2625,7 @@
       "name": "TETU Bookkeeper",
       "getter": "implementation()",
       "implementations": [
+        "0xb5d811606f40ef9638f0d033b90eb9e3db8d7a47",
         "0x111a98fe1d4dfd381711c88c4744aa6e9b1a8fa9"
       ]
     },
@@ -2330,6 +2633,7 @@
       "name": "TETU FundKeeper",
       "getter": "implementation()",
       "implementations": [
+        "0xf62f6ba38ff6974429d001dbc7911453870227bf",
         "0xaf56d0b9ba597dc9c3c5b9ac609f9023dc79fe52"
       ]
     },
@@ -2337,6 +2641,7 @@
       "name": "veTETU",
       "getter": "implementation()",
       "implementations": [
+        "0xa864d1c9ca75b92d4fd98023efd5ad4be6c9528f",
         "0xb45590e48a592bffa077a6937b630f6b251bfe00"
       ]
     },
@@ -2344,6 +2649,7 @@
       "name": "TETU ETH Vault",
       "getter": "implementation()",
       "implementations": [
+        "0xc798a1fd12469385c9f3187e88a94314b2b72939",
         "0x9ed23756ecd0b9012e4d7ee807da0e6ec94a1a70"
       ]
     },
@@ -2351,6 +2657,7 @@
       "name": "Orium Factory",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x85f10eecfb26a55500a8afc26f82323165979fe1",
         "0x046d98b5e37598c7ddb4fe2539a11426e706b59e"
       ]
     },
@@ -2358,6 +2665,7 @@
       "name": "Orium Aavegotchi Petting",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x1ad5396c8140d3f6437237cfac1914708bd8420a",
         "0x0aa71834e12ce046bdbb98fa90362b6c077699ad"
       ]
     },
@@ -2365,6 +2673,7 @@
       "name": "Orium Aavegotchi Scheduler",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe37aab499af75551a6cabc06c6f64bdb9daf03da",
         "0x8f77bb3891d7aba5f9ac948f6af0b1da314541d2"
       ]
     },
@@ -2372,6 +2681,7 @@
       "name": "Orium Scholarship Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x3c274debf7ff5d8b22217ae3ea9624b8e21d50d2",
         "0x9d506fdac0efddd146217ce5d3a88e7af95e3e55"
       ]
     },
@@ -2386,6 +2696,7 @@
       "name": "Ankr MATIC Swap Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
         "0xbd00f00ed3c6805cd709998f3064fbc95460dbff"
       ]
     },
@@ -2393,6 +2704,7 @@
       "name": "Router Protocol Vote Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xe6a4bca23be6bce2bd2d5d0df021ee35e05c22bf",
         "0xf83918ea2908a9dd4543b9fa8d29a7edf24b1a4a"
       ]
     },
@@ -2400,6 +2712,7 @@
       "name": "Router Protocol BSC Bridge",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x507796eea038a51bc0af72373fd4e85e4826d576",
         "0x6394dcee344eaeffe6e44edaaa8700666d347500"
       ]
     },
@@ -2407,6 +2720,7 @@
       "name": "Router Protocol ERC20 Handler",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xdc3375957cdf6e57837099f51da0cd56ead1c140",
         "0x8107536f18f1ce5a2cd206e19273084fb3a977a9"
       ]
     },
@@ -2414,6 +2728,7 @@
       "name": "Router Protocol Fee Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x8643548aa389215575cd3639c681826b8cc0d29e",
         "0x505fab608db513302a66ea489569e562c80ad112"
       ]
     },
@@ -2421,6 +2736,7 @@
       "name": "Router Protocol Handler Reserve",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x33142ff2919ca55ea697f65d41ef11b2c9b6e70b",
         "0x55cf9fd9371b98b17225fd6f0479d10debc877ab"
       ]
     },
@@ -2428,6 +2744,7 @@
       "name": "Router Protocol Polygon Staking",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xb16f06d932fad1ed6c9f6e512a276f2451c4865f",
         "0x158b063e0e88254404487f1653e300e469586036"
       ]
     },
@@ -2435,6 +2752,7 @@
       "name": "Forta Access Manager",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd60d162c3335eb3ec4beca9f97218faa4839f007",
         "0xc855d842ff0af97b0d18cc81eecbb702ea1a0706"
       ]
     },
@@ -2442,6 +2760,7 @@
       "name": "Forta Router",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x200daf0a67b91bda59b57d436a3538e60c87c381",
         "0x77701d5e7bd0015ddc665caf774008ac04d4f28b"
       ]
     },
@@ -2449,6 +2768,7 @@
       "name": "Forta Agent Registry",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xb50d3960a49120d0a6b543e7295cae6c78d07967",
         "0xb779ff917f824740dd64c0568c346a4c918ef095"
       ]
     },
@@ -2463,6 +2783,7 @@
       "name": "Forta Dispatch",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xad40ed4812874048eee6832325f2ec8137f98acc",
         "0x5eed79ec2d48be67e6d956c59110f123116c3ead"
       ]
     },
@@ -2470,6 +2791,7 @@
       "name": "Forta Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xdec964c65b265f038b07a6524598498b3deb0e51",
         "0xd6b3139108e271c812acc6ffebad28e935d61e24"
       ]
     },
@@ -2477,6 +2799,7 @@
       "name": "Forta Staking",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xd6ebebd5b165b56e2f55f69d70f414b8adc2696d",
         "0x543d94657fa8c710818f0d9f7edec7f4ca03ccda"
       ]
     },
@@ -2491,6 +2814,7 @@
       "name": "Hyperlane Interchain Gas Paymaster",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xab311c7dae251c1eb24c5a5409d47a415828d5e5",
         "0xbdd8eb3884a8f111f338b7784c163dd62d03daf9"
       ]
     },
@@ -2498,7 +2822,8 @@
       "name": "Davos Protocol Token",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xe7cc549ea4fd4f3179eff67a35ebe35264db6a1c"
+        "0xe7cc549ea4fd4f3179eff67a35ebe35264db6a1c",
+        "0x0fb82db5676330644acd26a21fd00c749715066d"
       ]
     },
     "0xbD38B722480e2e3D540CaFC44A113d92E1015faa": {
@@ -2561,6 +2886,7 @@
       "name": "Davos Protocol Waiting Pool",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x02237aaf5b62dbcdeac287e76f9ac1d5deec7738",
         "0xfedf355430be38c298c0515e804a0a5932b7672c"
       ]
     },
@@ -2568,6 +2894,7 @@
       "name": "Davos Protocol Master Vault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0xc8afcc8262023be0ff5063b74057fb74afdb7db7",
         "0xfa3fa862d91b9b264d062024cf81cc6c531aea3f"
       ]
     },
@@ -2575,6 +2902,7 @@
       "name": "Davos Protocol CeVault",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
+        "0x50a180635b233a08c0fe98239d05b40f96efb6aa",
         "0x2bde5adb0da369e28c29b8ea7aca997197167d62"
       ]
     },
@@ -2603,6 +2931,7 @@
       "name": "Decentraland Collections Beacon",
       "getter": "implementation()",
       "implementations": [
+        "0x",
         "0x006080c6061c4af79b39da0842a3a22a7b3f185e"
       ]
     },
