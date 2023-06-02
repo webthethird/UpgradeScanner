@@ -90,6 +90,8 @@ def get_previous_impl(proxy_address, current_impl, rpc_url, api_key, chain, slot
     try:
         data = json.loads(response.text)
         block = data.get("result").get("blockNumber").replace("0x","")
+        if len(block) % 2 == 1:
+            block = "0" + block
         block = int.from_bytes(bytes.fromhex(block), byteorder="big")
         # print(f"Current implementation at {current_impl} deployed in block {block} in tx: {tx_hash}")
     except (json.decoder.JSONDecodeError, AttributeError, ValueError) as err:
