@@ -1760,13 +1760,6 @@
         "0x7eb70dc00d401de4457fef0dcfc9e3e9ddb15b0d"
       ]
     },
-    "0xB43BDf98A4971617C9Be437Ec928B1076b94707E": {
-      "name": "Router Protocol Fee Manager",
-      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-      "implementations": [
-        "0x0000000000000000000000000000000000000000"
-      ]
-    },
     "0x6e14f48576265272B6CAA3A7cC500a26050Be64E": {
       "name": "Router Protocol Handler Reserve",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
@@ -2357,7 +2350,6 @@
       "name": "Benqi Finance PglStakingContract",
       "getter": "implementation()",
       "implementations": [
-        "0x",
         "0x21e622f72b6927fec426d539740980188fd2b56a",
         "0xe59988d947f80b59ff1de7bd413e5e5517906cb2"
       ]
