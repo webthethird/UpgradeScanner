@@ -198,10 +198,10 @@ if __name__ == '__main__':
                         bash_command = f'cast etherscan-source -d {impl_path} -c {chain} --etherscan-api-key {api_key} {prev_impl}'
                         process = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE, text=True)
                         output, error = process.communicate()
-                    else:
-                        print(f"Failed to find a previous implementation for {name}")
+                    # else:
+                    #     print(f"Failed to find a previous implementation for {name}")
                 except Exception as err:
-                    print(f"Failed to find a previous implementation for {name}")
+                    # print(f"Failed to find a previous implementation for {name}")
                     continue
 
     if any_updates:

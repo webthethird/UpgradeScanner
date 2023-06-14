@@ -150,7 +150,8 @@
       "name": "Optimism Gateway",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x40e0c049f4671846e9cff93aaed88f2b48e527bb"
+        "0x40e0c049f4671846e9cff93aaed88f2b48e527bb",
+        "0xbfb731cd36d26c2a7287716de857e4380c73a64a"
       ]
     },
     "0x74312363e45dcaba76c59ec49a7aa8a65a67eed3": {
@@ -1123,7 +1124,8 @@
         "0xd53371dd62f5acb845cb000d40c3759f5a6de903",
         "0x51369e05661e494dc7d4264156eef915fd5d5c61",
         "0x7d9eb80519a9f0951b4ccf9aa7a6d78542b7fac8",
-        "0x1bfc8d3d6704d63a9901189cd6dfefd0993a1b25"
+        "0x1bfc8d3d6704d63a9901189cd6dfefd0993a1b25",
+        "0x359424a81392588206cbb33159d6aebc292cb404"
       ]
     },
     "0x16ca3E500dA893cF2EEBb6b401247e68ca5BC072": {
