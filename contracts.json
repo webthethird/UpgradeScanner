@@ -1248,7 +1248,10 @@
     "0xf3ab1d58ce6b9e0d42b8958c918649305e1b1d26": {
         "name": "BendDAO Fee Collector",
         "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-        "implementations": []
+        "implementations": [
+          "0x304eab894a048f35c399df835e2b508da886d180",
+          "0x37e570fd9b253ab076713cae31f48aa77a0a3b4b"
+        ]
       },
     "0xA1756D785F4abD4ec06dB71c65f18D25083CbF88": {
       "name": "BendDAO Competition",
