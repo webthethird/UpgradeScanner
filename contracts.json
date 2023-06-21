@@ -440,7 +440,8 @@
         "0x2b5f704ab7061fb4dbfc5876b024f4bdb2f5e8b6",
         "0xa9f983a0d33a6fa782ddd29c93649f7d65df4dd9",
         "0x01ec93c289cb003e741f621cdd4fe837243f8905",
-        "0xfedfe25ea1c959ea6066a6cadd6ff5b4579f92ae"
+        "0xfedfe25ea1c959ea6066a6cadd6ff5b4579f92ae",
+        "0xe9a9b6ce6ae2141ed7393a61e6caadc481780f77"
       ]
     },
     "0xD291E7a03283640FDc51b121aC401383A46cC623": {
@@ -1240,9 +1241,15 @@
       "name": "BendDAO Fee Distributor",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0xcc98fdc0fce55cf5c51c52c3d66bc676bc6ee2e2"
+        "0xcc98fdc0fce55cf5c51c52c3d66bc676bc6ee2e2",
+        "0xdd7bcc265e8e1aa3afab2e1877445d8828d10482"
       ]
     },
+    "0xf3ab1d58ce6b9e0d42b8958c918649305e1b1d26": {
+        "name": "BendDAO Fee Collector",
+        "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+        "implementations": []
+      },
     "0xA1756D785F4abD4ec06dB71c65f18D25083CbF88": {
       "name": "BendDAO Competition",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
@@ -2081,7 +2088,8 @@
         "0x2b5f704ab7061fb4dbfc5876b024f4bdb2f5e8b6",
         "0xfe9a934a8607ef020adf22d4431d6ce6005aa4d3",
         "0x9915d29439f736c941594e0c35cf88f96ab1d3be",
-        "0xe506d93b4f37d6b6efce050bc610b116693dee6d"
+        "0xe506d93b4f37d6b6efce050bc610b116693dee6d",
+        "0x9c75e722dac0ee9ffe05fb2b85379586989e8fb9"
       ]
     },
     "0xa5f208e072434bC67592E4C49C1B991BA79BCA46": {
@@ -2283,7 +2291,8 @@
         "0x566aded4e644f40a6a943c40bd40a2419d5d517f",
         "0x7869fd0edcfff8c05600cb71826e59a3ad860938",
         "0x68f680607a5c32cab860f84f5f5e9f9497f66535",
-        "0xbd454fbad8f0e9fae5c830d0cc1e698444445773"
+        "0xbd454fbad8f0e9fae5c830d0cc1e698444445773",
+        "0x477fb965d22b82b02c3fe853cf33bc1c5708385e"
       ]
     },
     "0x1960628db367281B1a186dD5B80B5dd6978F016F": {
@@ -2561,7 +2570,8 @@
         "0xb95899f0e73539271079b7f2330a358f968ec392",
         "0x6c747d7ea6e4630b02ad26f98f6572b6885ad675",
         "0x12c884f45062b58e1592d1438542731829790a25",
-        "0xe06d686c4e375db8f1156efba1d3d1d44dc255c3"
+        "0xe06d686c4e375db8f1156efba1d3d1d44dc255c3",
+        "0xa7127bb76eba78b3467f1cce20daf84f179df5a7"
       ]
     },
     "0xA7f3FC32043757039d5e13d790EE43edBcBa8b7c": {
@@ -2571,7 +2581,8 @@
         "0xe1ebefc179218874c7b6fd31289ef4480ef6edc3",
         "0x48118cef3d2b980ce92f136232cf1f2c328a540a",
         "0x28f1e979ac21b80543adc7c70f15cf0dbaf340e0",
-        "0xfdadab426e4505030b958f17fa41547e018e3836"
+        "0xfdadab426e4505030b958f17fa41547e018e3836",
+        "0x8c43f2910902b26fa7635a81088bf615ec618861"
       ]
     },
     "0x34235C8489b06482A99bb7fcaB6d7c467b92d248": {
@@ -2590,7 +2601,8 @@
         "0x0f474fe6c39ff7af82a8d3f6acded09587e0402c",
         "0xc6e3f755725d174a6b7923a2d8a8b3db73ba8d0c",
         "0xdcb820d383ad87737da41f7f201866ef8792616a",
-        "0x81d4bdb63e59339375a1376a3bd0d99c22fc0126"
+        "0x81d4bdb63e59339375a1376a3bd0d99c22fc0126",
+        "0xf482304d9d9fc5629e45f4077a3a2dbceda15890"
       ]
     },
     "0x1C9a192DF3936cBF093d8afDc352718bCF834EB6": {
@@ -2638,7 +2650,8 @@
         "0xba0320822e711ab94f0d6e3dca95e6f9bf4d102c",
         "0x4b58c9022faf4c4e6dccf256e311bab41bba72c5",
         "0x6164a4f3bbd87a0a11cc5f14278b8ab260217599",
-        "0x840048281d438bc834fa5c8a3d0ba7822553bc88"
+        "0x840048281d438bc834fa5c8a3d0ba7822553bc88",
+        "0x8914bb02e93cf66bb30cd39870d247a1ea7284ed"
       ]
     },
     "0xAD7b4C162707E0B2b5f6fdDbD3f8538A5fbA0d60": {
@@ -2648,7 +2661,8 @@
         "0x2025c0525f450c14114db683ea8789b1dd5a6c90",
         "0xcf10d17bad67ce190a94f08fdd7b4e51540fd860",
         "0xd24b8feeea13a0ecce247e37e8ad1a0b2620fc5b",
-        "0x2f8508fc4bfe338b944a9b93b05a9b9725590023"
+        "0x2f8508fc4bfe338b944a9b93b05a9b9725590023",
+        "0x49755aae322b9c6b76c7843bcf5afa5b11cba99b"
       ]
     },
     "0x3230Cbb08C64d0804BE5b7f4cE43834291490a91": {
