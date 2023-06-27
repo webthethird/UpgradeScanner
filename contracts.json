@@ -503,7 +503,8 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x12e929eb29ed2307a28eb3e494062c58c32aaf7d",
-        "0xe79850aacd3ad0b50b747837410ae5d7c38d5caa"
+        "0xe79850aacd3ad0b50b747837410ae5d7c38d5caa",
+        "0x82c623270fb3c4e95a36d35e21a95ff328531dc5"
       ]
     },
     "0xc626F08Cf88972332CFcb48B227409658be67a1c": {
@@ -1246,13 +1247,13 @@
       ]
     },
     "0xf3ab1d58ce6b9e0d42b8958c918649305e1b1d26": {
-        "name": "BendDAO Fee Collector",
-        "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
-        "implementations": [
-          "0x304eab894a048f35c399df835e2b508da886d180",
-          "0x37e570fd9b253ab076713cae31f48aa77a0a3b4b"
-        ]
-      },
+      "name": "BendDAO Fee Collector",
+      "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
+      "implementations": [
+        "0x304eab894a048f35c399df835e2b508da886d180",
+        "0x37e570fd9b253ab076713cae31f48aa77a0a3b4b"
+      ]
+    },
     "0xA1756D785F4abD4ec06dB71c65f18D25083CbF88": {
       "name": "BendDAO Competition",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
@@ -2295,14 +2296,16 @@
         "0x7869fd0edcfff8c05600cb71826e59a3ad860938",
         "0x68f680607a5c32cab860f84f5f5e9f9497f66535",
         "0xbd454fbad8f0e9fae5c830d0cc1e698444445773",
-        "0x477fb965d22b82b02c3fe853cf33bc1c5708385e"
+        "0x477fb965d22b82b02c3fe853cf33bc1c5708385e",
+        "0xbca6d5de39c50a863d603702101ab776ce525c3a"
       ]
     },
     "0x1960628db367281B1a186dD5B80B5dd6978F016F": {
       "name": "Perennial Balanced Vault Bravo",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x741fc06b5de25ac5b31f54b92ee3bf1c97bf8666"
+        "0x741fc06b5de25ac5b31f54b92ee3bf1c97bf8666",
+        "0xda17b128bfd23112e946fb4e7ba162029d7d1cde"
       ]
     },
     "0x17B07cfBAB33C0024040e7C299f8048F4a49679B": {
