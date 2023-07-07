@@ -247,7 +247,8 @@
         "0x77adaa0c9877f36c778b9291b966b761941ae3b7",
         "0x9b5d1e314a8c8af17150fe4e327e8523ee15d25f",
         "0x5363827a66224541224decf96378fdd0f110ac46",
-        "0xc6bda983ce0a00142e2334bc2726c30573fe5e3e"
+        "0xc6bda983ce0a00142e2334bc2726c30573fe5e3e",
+        "0xb0a1cd3b31a8e3bbbaba15feddb88abd932a677d"
       ]
     },
     "0x78605df79524164911c144801f41e9811b7db73d": {
@@ -2088,7 +2089,8 @@
         "0x66324d599ce0f02c436c6ef341d0f82811580385",
         "0x1ba0235e6fcd1c32ad4582dcee6f2bacda44e8ca",
         "0x363e21ec23bba74bd3831079e214d93a1ce304cd",
-        "0x33b58d0144458b2db7b7bc7be432547dc65bfae3"
+        "0x33b58d0144458b2db7b7bc7be432547dc65bfae3",
+        "0xa82802ef1c3e53fdf75e4efa7a0240123358059c"
       ]
     },
     "0xa835F890Fcde7679e7F7711aBfd515d2A267Ed0B": {
@@ -2359,7 +2361,8 @@
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
         "0x741fc06b5de25ac5b31f54b92ee3bf1c97bf8666",
-        "0xda17b128bfd23112e946fb4e7ba162029d7d1cde"
+        "0xda17b128bfd23112e946fb4e7ba162029d7d1cde",
+        "0xdeeb41dc9c86575aa093a6b091e92b8256d8fd31"
       ]
     },
     "0x17B07cfBAB33C0024040e7C299f8048F4a49679B": {
@@ -2921,7 +2924,8 @@
         "0x6177a480240d3248849f4b65e421e0b296522f21",
         "0xd6bd29da51d2875a6888c5d211b5fb75bf28ba24",
         "0xc304cef3bb75b2638633aec178df09fd058a0f9c",
-        "0x5ee041478e482ff756a783b8115b06bcecc0fc93"
+        "0x5ee041478e482ff756a783b8115b06bcecc0fc93",
+        "0x965d645243d5cfff963a310a75e2191e5649b6c8"
       ]
     },
     "0xf972DACEd7C6b03223710C11413036D17eB298f6": {
@@ -3259,7 +3263,8 @@
       "name": "Davos Protocol Davos Provider",
       "slot": "0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc",
       "implementations": [
-        "0x92afc5c40d03155151b2cd76fa0f0c7c6e31ee03"
+        "0x92afc5c40d03155151b2cd76fa0f0c7c6e31ee03",
+        "0x9240949497265c02fbe8b0055af5d72f4b3e068a"
       ]
     },
     "0x02C7420407A6439d49E9816399A5d5b03187363B": {
